@@ -30,7 +30,7 @@ Lecturas, ideas, temas
 # Ejercicio 1: historial de sueño (Spotify tarda en dar tu historial)
 
 -   He subido el historial de sueño obtenido con un sensor fitbit [aquí](https://github.com/emagar/sip/blob/master/data/sleep-para-alumn.csv)
--   Haga su mejor esfuerzo por hacer un croquis que cuente una historia
+-   Haga su mejor esfuerzo por hacer un croquis que cuente una historia. Si no consigue hacerlo, deberá contarnos cuál será su estrategia para abordar el problema.
 
 
 # Ejercicio 2: votos y escaños
