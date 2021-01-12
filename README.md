@@ -27,7 +27,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 Lecturas, ideas, temas
 
 
-# Ejercicio 1: historial de Spotify
+# Ejercicio 1: historial de sueño (Spotify tarda en dar tu historial)
+
+-   He subido el historial de sueño obtenido con un sensor fitbit [aquí](https://github.com/emagar/sip/blob/master/data/sleep-para-alumn.csv)
+-   Haga su mejor esfuerzo por hacer un croquis que cuente una historia
 
 
 # Ejercicio 2: votos y escaños
@@ -127,4 +130,7 @@ Lecturas, ideas, temas
 
 
 ## Git y github
+
+
+## El infierno de los character encodings
 
