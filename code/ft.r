@@ -18,6 +18,6 @@ levels(ft$infect) <-   c("0 secondary", ">0 secondary")
 table(ft$infect, ft$outdoors)
 (16/6) / (11/77)
 
-plot(table(ft$ninfect[ft$dinfect>0], ft$outdoors[ft$dinfect>0]), col = c("pink","lightblue"))
-
+t <- table(ft$ninfect[ft$dinfect>0], ft$outdoors[ft$dinfect>0])
+plot(t, col = c("gray","lightblue"))
 
