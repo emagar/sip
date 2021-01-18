@@ -41,10 +41,6 @@ r$light <- numz(r$light)
 r$deep <- numz(r$deep)
 rm(numz)
 
-# duplica datos para manipular
-r2 <- r
-sl2 <- sl
-
 # define not.in
 '%not.in%' <- function(x,y)!('%in%'(x,y))
 
@@ -114,19 +110,91 @@ sl$siesta.start <- NA; sl$siesta.start[sel2] <- tmp$start
 r <- r[-sel,] # drop siestas
 rm(sel,sel2,tmp) # clean
 
-AQUI VOY
+# anhade ns faltantes
+r$n
+r$n2 <- r$n
+sel <- which(is.na(r$n2))
+for (i in sel){
+    r$n2[i] <- r$n2[(i-1)] + 1
+    }
+cbind(r$n, r$n2) # verifica
+# persiste problema al final del bloque gde de NAs
+sel <- which(r$n2 - c(NA, head(r$n2, k=1, -1)) < 0) # selecciona indice donde n - lag es negativo
+r$n2[sel:length(r$n2)] <- r$n2[sel:length(r$n2)] + 32 # arregla problema a mano
+r$n <- r$n2; r$n2 <- NULL # replaza
 
-# consolidate r's split nights
-r$dup <- 0 # woke-up & spent time up
-tmp <- table(r$n) # 1s are str8 nites
-sel <- ifelse(tmp[r$n]==1, FALSE, TRUE) # selects split nites (freq>1)
-sel <- as.numeric(sel) * 1:length(r$n); sel <- sel[sel>0] # makes numeric
-# r$n[sel] # debug
-# partition str8/split nites
-r3 <- r[sel,]  # split nites only
-r <- r[-sel,] # str8 (will receive consolidated after manip)
+# plot sleep spells
+st <- hour(r$start) # la hora en que empezó el sueño
+st <- ifelse(st < 12, st + 12, st - 12) # manipulate so that 23 (11pm) comes before 0 (midnight)
+st <- st + minute(r$start) /60 # add minutes ad centesimals
+r$st <- st
 #
-# plug up's duration
+en <- hour(r$end) # la hora en que empezó el sueño
+en <- ifelse(en < 12, en + 12, en - 12) # manipulate so that 23 (11pm) comes before 0 (midnight)
+en <- en + minute(r$end) /60 # add minutes ad centesimals
+r$en <- en
+
+# checa que se pueda
+plot(r$fch, r$st)
+
+# mejor usar líneas
+m <- min(st, na.rm = TRUE); M <- max(en, na.rm = TRUE) # rango ys
+plot(r$fch, c( rep( m, (length(r$fch) - 1) ), M ), type = "n")
+rm(m,M)
+for (i in 1:length(r$fch)){
+    lines(rep(r$fch[i], 2), c(st[i], en[i]))
+}
+
+# start = 0 -- horas de sueño
+minus <- ave(r$st, r$fch, FUN=min, na.rm=TRUE)
+data.frame(r$fch, r$st, r$en, minus)
+st <- r$st - minus
+en <- r$en - minus
+m <- min(st, na.rm = TRUE); M <- max(en, na.rm = TRUE)
+plot(r$fch, c( rep( m, (length(r$fch) - 1) ), M ), type = "n")
+rm(m,M)
+for (i in 1:length(r$fch)){
+    #i <- 10
+    lines(rep(r$fch[i], 2), c(st[i], en[i]))
+}
+
+# mismo con menos fechas
+sel <- which(month(r$fch) %in% 9:10 & year(r$fch)==2019)
+m <- min(st, na.rm = TRUE); M <- max(en, na.rm = TRUE)
+plot(r$fch[sel], c( rep( m, (length(r$fch[sel]) - 1) ), M ), type = "n")
+rm(n,M)
+for (i in 1:length(r$fch[sel])){
+    #i <- 10
+    lines(rep(r$fch[sel][i], 2), c(st[sel][i], en[sel][i]))
+}
+
+# función q expresa minutos en horas-minutos
+inhmin <- function(mm=NA){
+    mm <- mm;
+    ho <- as.integer(as.numeric(minutes(mm), "hours"));
+    mi <- dminutes(mm) - dhours(ho);
+    mi <- as.numeric(mi, "minutes");
+    string <- ifelse(mi<10,
+                     paste(ho, "h0", mi, "'", sep = ""), # string
+                     paste(ho, "h", mi, "'", sep = "")) # string
+    return(string)
+}
+# ejemplo
+inhmin(452)
+
+# duplica datos para manipular
+r2 <- r
+# consolida noches partidas en otro objeto
+r$dup <- 0 # desperté y volví a dormir
+tmp <- table(r$n, useNA = "ifany") # freq==1 son noches ininterrumpidas
+sel <- ifelse(tmp[r$n]==1, FALSE, TRUE) # selecciona noches partidas (freq>1)
+sel <- as.numeric(sel) * 1:length(r$n); sel <- sel[sel>0] # hace numerico
+#r$n[sel] # debug
+# partition str8/split nites
+r3 <- r[sel,]  # noches partidas solamente
+r <- r[-sel,]  # quita noches partidas pq recibira datos manipulados más abajo
+#
+# duración de up
 tmp1 <- ave(r3$start, r3$n, FUN=max, na.rm=TRUE)
 tmp2 <- ave(r3$end,   r3$n, FUN=min, na.rm=TRUE)
 r3$up.durat <- tmp1 - tmp2
@@ -134,7 +202,7 @@ r3$up.durat <- as.integer(r3$up.durat*60) # in minutes as rest
 r3$up.start <- tmp2 # up's start time
 r3$dup <- 1
 head(r3)
-# aggregate components
+# agrega componentes
 r3$start      <- ave(r3$start,      r3$n, FUN=min, na.rm=TRUE)
 r3$end        <- ave(r3$end,        r3$n, FUN=max, na.rm=TRUE)
 r3$asleep     <- ave(r3$asleep,     r3$n, FUN=sum, na.rm=TRUE)
@@ -155,21 +223,32 @@ r$up.start <- ymd_hm(NA)
 r <- rbind(r, r3)
 r <- r[order(r$fch, r$start),]
 #
+# renombra: para que r sea objeto original y r.ag sea el de las noches agregadas 
+r.ag <- r
+r    <- r2 
+#
 # clean
-rm(r3, sel, tmp, tmp1, tmp2)
+rm(r2,r3, sel, tmp, tmp1, tmp2)
+#
+# verifica
+head(r)
+head(r.ag)
+
+# descriptivos
+summary(r.ag$durat)
+inhmin(736)
+sel <- which(r.ag$durat>700)
+r.ag[sel,]
+inhmin(1970)
+x
+
+AQUI ME QUEDE
+
+
+
 
 # express minutes in hours and minutes
-inhmin <- function(mm=NA){
-    mm <- mm;
-    ho <- as.integer(as.numeric(minutes(mm), "hours"));
-    mi <- dminutes(mm) - dhours(ho);
-    mi <- as.numeric(mi, "minutes");
-    string <- ifelse(mi<10,
-                     paste(ho, "h0", mi, "'", sep = ""), # string
-                     paste(ho, "h", mi, "'", sep = "")) # string
-    return(string)
-}
-#
+str(sl)
 sl$asleep.s <- inhmin(sl$asleep)
 sl$awake.s <- inhmin(sl$awake)
 sl$timeInBed.s <- inhmin(sl$timeInBed)
