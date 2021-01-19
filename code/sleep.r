@@ -5,7 +5,8 @@ setwd("~/Desktop/sip/data/")
 rm(list = ls())
 
 # lee datos
-r <- read.csv(file = "sleep-raw-para-alumn.csv", stringsAsFactors = FALSE); r <- r[order(r$ord),] # raw data
+r <- read.csv(file = "sleep-raw-para-alumn.csv", stringsAsFactors = FALSE);
+r <- r[order(r$ord),] # raw data
 sl <- read.csv(file = "sleep-para-alumn.csv", stringsAsFactors = FALSE)
 
 # tira renglones innecesarios
