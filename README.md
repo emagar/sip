@@ -70,6 +70,9 @@ Lecturas, ideas, temas
 # Ejercicio 5: precios de NYSE
 
 
+# Ejercicio 6: Regular expressions
+
+
 # Ejercicio de scraping en Python: Javascript y Selenium
 
 

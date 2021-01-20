@@ -15,11 +15,11 @@ if (length(sel)>0) r <- r[-sel,]
 sel <- which(sl$pregabalina=="")
 if (length(sel)>0) sl <- sl[-sel,]
 
-# inspecciona
+# inspeccion
 str(r)
 str(sl)
 
-# maneja fechas
+# maneja fechas mas versatiles
 library(lubridate)
 r$start <- ymd_hm(r$start)
 r$end <- ymd_hm(r$end)
@@ -45,7 +45,7 @@ rm(numz)
 # define not.in
 '%not.in%' <- function(x,y)!('%in%'(x,y))
 
-# añade fechas faltantes
+# añade fechas faltantes para completar la serie de tiempo
 m <- min(r$fch, sl$fch)
 M <- max(r$fch, sl$fch)
 s <- seq(from = m, to = M, by = 1)
@@ -77,7 +77,7 @@ sl$fch
 # limpieza
 rm(m,M,s,tmp,sel)
 
-# duracion en hours
+# duracion en horas
 r$durat <- r$end - r$start
 mean(r$durat, na.rm = TRUE)
 # in minutes as rest
