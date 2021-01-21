@@ -41,12 +41,8 @@ Lecturas, ideas, temas
 
 ## Enlaces útiles
 
-
-## [Cómo obtener los tweets de Trump](https://qz.com/1955036/where-to-find-trumps-tweets-now-that-hes-banned-from-twitter/)
-
-
-## [Acervo de tweets de Trump](https://www.thetrumparchive.com/)
-
+-   [Cómo obtener los tweets de Trump](https://qz.com/1955036/where-to-find-trumps-tweets-now-that-hes-banned-from-twitter/)
+-   [Acervo de tweets de Trump](https://www.thetrumparchive.com/)
 -   [Paper Benton-Philips](https://www.dropbox.com/s/avhokdg9enr5p8s/BentonPhilips2020_AJPS.pdf?dl=0)
 
 
