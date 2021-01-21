@@ -27,47 +27,60 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 Lecturas, ideas, temas
 
 
-# Ejercicio 1: historial de sueño (Spotify tarda en dar tu historial)
+# Ejercicio 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
 -   He subido el historial de sueño obtenido con un sensor fitbit [aquí](https://github.com/emagar/sip/blob/master/data/sleep-para-alumn.csv) y [aquí](https://github.com/emagar/sip/blob/master/data/sleep-raw-para-alumn.csv). Ojo: los datos se complementan y anoche (2021-01-11) no había incluido el 2o archivo!)
 -   Haga su mejor esfuerzo por hacer un croquis que cuente una historia. Si no consigue hacerlo, deberá contarnos cuál será su estrategia para abordar el problema.
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-# Ejercicio 2: votos y escaños
+# Ejercicio 2 (25 de enero): los tweets de Trump y la bolsa
+
+¿Los tweets de Trump movieron la bolsa? Plantee una ruta para contestar con datos e inicie su exploración.
 
 
-## Usar los datos de seats and votes para hacer una representación gráfica que permita contar una historia (Rehacer mi seats-votes plot para OAS)
-
--   Darles los datos, que investiguen qué se ha escrito.
--   Que investigen por qué importa &#x2014; base para la historia
--   Discutir sus intentos de gráficos.
--   Rehacerla en vivo.
--   Sacar patrones para contar la historia
+## Enlaces útiles
 
 
-# Ejercicio 3: proposiciones con puntos de acuerdo en la Cámara de Diputados
+## [Cómo obtener los tweets de Trump](https://qz.com/1955036/where-to-find-trumps-tweets-now-that-hes-banned-from-twitter/)
 
 
-## Ejercicio rudimentario de scraping.
+## [Acervo de tweets de Trump](https://www.thetrumparchive.com/)
+
+-   [Paper Benton-Philips](https://www.dropbox.com/s/avhokdg9enr5p8s/BentonPhilips2020_AJPS.pdf?dl=0)
 
 
-## Texto de scraping de CA
+# Ejercicio 3: votos y escaños
 
 
-## Extraer proposiciones (si no lo logran, deben poder describir lo que intentaron y dónde se atoraron).
+## Usar los atos de seats and votes para hacer una representación gráfica que permita contar una historia (Rehacer mi seats-votes plot para OAS)
+
+-   Darles losdatos, que investiguen qué se ha escrito.
+-   Que investgen por qué importa &#x2014; base para la historia
+-   Discutir ss intentos de gráficos.
+-   Rehacerla n vivo.
+-   Sacar patrnes para contar la historia
 
 
-# Ejercicio 4: aproximación cardinal a la CPEUM
+# Ejercicio 4: proposiciones con puntos de acuerdo en la Cámara de Diputados
+
+
+## Ejerciciorudimentario de scraping.
+
+
+## Texto de craping de CA
+
+
+## Extraer poposiciones (si no lo logran, deben poder describir lo que intentaron y dónde se atoraron).
+
+
+# Ejercicio 5: aproximación cardinal a la CPEUM
 
 
 ## Scraping del sitio del IIJ
 
 
 ## Variables dependientes?
-
-
-# Ejercicio 5: precios de NYSE
 
 
 # Ejercicio 6: Regular expressions

@@ -2,6 +2,7 @@
 \#*.*#
 .#*.*
 .~lock*.*
+*.*~
 
 # History files
 .Rhistory

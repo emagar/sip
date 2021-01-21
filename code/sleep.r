@@ -158,7 +158,7 @@ for (i in 1:length(r$fch)){
     #i <- 10
     lines(rep(r$fch[i], 2), c(st[i], en[i]))
 }
-
+ 
 # mismo con menos fechas
 sel <- which(month(r$fch) %in% 9:10 & year(r$fch)==2019)
 m <- min(st, na.rm = TRUE); M <- max(en, na.rm = TRUE)
