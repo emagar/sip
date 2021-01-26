@@ -46,7 +46,20 @@ Lecturas, ideas, temas
 -   [Paper Benton-Philips](https://www.dropbox.com/s/avhokdg9enr5p8s/BentonPhilips2020_AJPS.pdf?dl=0)
 
 
-# Ejercicio 3: votos y escaños
+# Ejercicio 3 (27 de enero): confianza en conteo EE.UU.
+
+-   Planee el argumento de una historia a partir de las siguientes gráficas.
+
+![img](./pics/stewart-count-confidence-vs-trump-pct-reps.png)
+![img](./pics/stewart-count-confidence-vs-trump-pct-dems.png)
+
+-   Aquí vendrá un enlace al reapportionment 2022&#x2026;
+
+
+# Ejercicio 4: votaciones nominales en la cámara de diputados
+
+
+# Ejercicio 5: votos y escaños
 
 
 ## Usar los atos de seats and votes para hacer una representación gráfica que permita contar una historia (Rehacer mi seats-votes plot para OAS)
@@ -58,7 +71,7 @@ Lecturas, ideas, temas
 -   Sacar patrnes para contar la historia
 
 
-# Ejercicio 4: proposiciones con puntos de acuerdo en la Cámara de Diputados
+# Ejercicio 6: proposiciones con puntos de acuerdo en la Cámara de Diputados
 
 
 ## Ejerciciorudimentario de scraping.
@@ -70,7 +83,7 @@ Lecturas, ideas, temas
 ## Extraer poposiciones (si no lo logran, deben poder describir lo que intentaron y dónde se atoraron).
 
 
-# Ejercicio 5: aproximación cardinal a la CPEUM
+# Ejercicio 7: aproximación cardinal a la CPEUM
 
 
 ## Scraping del sitio del IIJ
@@ -79,7 +92,7 @@ Lecturas, ideas, temas
 ## Variables dependientes?
 
 
-# Ejercicio 6: Regular expressions
+# Ejercicio 8: Regular expressions
 
 
 # Ejercicio de scraping en Python: Javascript y Selenium
