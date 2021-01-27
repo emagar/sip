@@ -46,10 +46,14 @@ Lecturas, ideas, temas
 
 -   [Cómo obtener los tweets de Trump](https://qz.com/1955036/where-to-find-trumps-tweets-now-that-hes-banned-from-twitter/)
 -   [Acervo de tweets de Trump](https://www.thetrumparchive.com/)
--   [Paper Benton-Philips](https://www.dropbox.com/s/avhokdg9enr5p8s/BentonPhilips2020_AJPS.pdf?dl=0)
+-   [Estrada+Poire 2007](https://github.com/emagar/sip/blob/master/lit/benton-philips-trump-tweets2020ajps.pdf)
+
+][Paper Benton-Philips]
 
 
-## Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
+## Código
+
+-   Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
 
 
 # Ejercicio 3 (27 de enero): (des)confianza en el conteo de noviembre
@@ -59,8 +63,10 @@ Lecturas, ideas, temas
 ![img](./pics/stewart-count-confidence-vs-trump-pct-reps.png)
 ![img](./pics/stewart-count-confidence-vs-trump-pct-dems.png)
 
+-   [Estrada+Poire 2007](https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf)
 
-# Ejercicio 4 (1 de febrero): *Reapportionment* 2022
+
+# Ejercicio 4 (3 de febrero): *Reapportionment* 2022
 
 -   [Szpiro ch 9 Founding Fathers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch09-founding-fathers.pdf)
 -   [Szpiro ch 10 Ivy Leaguers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch10-ivy-leaguers.pdf)
