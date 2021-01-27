@@ -27,6 +27,9 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 Lecturas, ideas, temas
 
 
+# Clase 1 (13 de enero)
+
+
 # Ejercicio 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
 -   He subido el historial de sueño obtenido con un sensor fitbit [aquí](https://github.com/emagar/sip/blob/master/data/sleep-para-alumn.csv) y [aquí](https://github.com/emagar/sip/blob/master/data/sleep-raw-para-alumn.csv). Ojo: los datos se complementan y anoche (2021-01-11) no había incluido el 2o archivo!)
@@ -34,7 +37,7 @@ Lecturas, ideas, temas
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-# Ejercicio 2 (25 de enero): los tweets de Trump y la bolsa
+# Ejercicio 2 (25 de enero): tweets y mercado bursátil
 
 ¿Los tweets de Trump movieron la bolsa? Plantee una ruta para contestar con datos e inicie su exploración.
 
@@ -46,7 +49,10 @@ Lecturas, ideas, temas
 -   [Paper Benton-Philips](https://www.dropbox.com/s/avhokdg9enr5p8s/BentonPhilips2020_AJPS.pdf?dl=0)
 
 
-# Ejercicio 3 (27 de enero): (des)confianza en el conteo de EE.UU.
+## Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
+
+
+# Ejercicio 3 (27 de enero): (des)confianza en el conteo de noviembre
 
 -   Planee el argumento de una historia en torno de las siguientes gráficas.
 
@@ -55,6 +61,10 @@ Lecturas, ideas, temas
 
 
 # Ejercicio 4 (1 de febrero): *Reapportionment* 2022
+
+-   [Szpiro ch 9 Founding Fathers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch09-founding-fathers.pdf)
+-   [Szpiro ch 10 Ivy Leaguers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch10-ivy-leaguers.pdf)
+-   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
 
 # Ejercicio: votaciones nominales en la cámara de diputados
