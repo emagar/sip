@@ -34,8 +34,8 @@ table(d$size)
 # ¿cuántas personas cree Ud. que debería representar un diputado federal? = DIVISOR
 r1787 <- 33000 # el techo de 1878 (constitución EUA dice r > 30000)
 # divisor ideal EEUU hoy (nacional)
-rusa <- round(328200000 / 435)
-rusa
+r.usa <- round(328200000 / 435)
+r.usa
 
 # relación ideal mx 2020
 r2020 <- round(sum(d$ptot2020) / 300)
@@ -85,8 +85,6 @@ app
 # tamaño del Congreso resultante, muy grande
 colSums(app[,-1])
 
-# peso relativo de cada estado
-cbind(edo=app[,1], round(app[,-1]*100 / colSums(app[,-1]),1))
 
 # hamilton compromise
 # (1) Fija el tamaño del cuerpo dada la relación de representación
@@ -199,3 +197,25 @@ plot(d$ptot2020, (d$ptot2020 / app$ham20))
 abline(h = R)
 plot(d$ptot2020, (d$ptot2020 / app$jef20))
 abline(h = R)
+
+# Relative Representation Index (Ansolabehere Snyder)
+# RRI =  (pob.nal / 300) / (pob.edo / ndip.edo)
+app$rri.jef <- round((sum(d$ptot2020) / 300) / (d$ptot2020 / app$jef20), 2);
+app$rri.ham <- round((sum(d$ptot2020) / 300) / (d$ptot2020 / app$ham20), 2);
+app$rri.web <- round((sum(d$ptot2020) / 300) / (d$ptot2020 / app$web20), 2);
+
+plot(c(.5,1.5), c(.5,1.5), type = "n")
+points(app$rri.ham, app$rri.jef)
+abline(a = 0, b = 1, lty = 2)
+
+plot(d$ptot2020, app$rri.jef, type = "n", main = "Jefferson")
+text(d$ptot2020, app$rri.jef, labels = app$edo, cex = .75)
+abline(h = 1)
+
+plot(d$ptot2020, app$rri.ham, type = "n", main = "Hamilton")
+text(d$ptot2020, app$rri.ham, labels = app$edo, cex = .75)
+abline(h = 1)
+
+
+app[,c("edo", "rri.ham", "rri.jef")]
+
