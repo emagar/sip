@@ -88,6 +88,11 @@ Lecturas, ideas, temas
 -   Sacar patrnes para contar la historia
 
 
+# Ejercicio: cambio generacional congreso de Mx
+
+-   <https://www.wcd.fyi/features/senate-generations/>
+
+
 # Ejercicio: proposiciones con puntos de acuerdo en la Cámara de Diputados
 
 
