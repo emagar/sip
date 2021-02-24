@@ -73,6 +73,14 @@ Lecturas, ideas, temas
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
 
+# Ejercicio 5 (1 de marzo): cambio generacional congreso mexicano &#x2013; ¿quién toma el tema?
+
+-   <https://www.wcd.fyi/features/senate-generations/>
+
+
+# Ejercicio: coaliciones que se vislumbran en los estados; alcaldes que aspiran a reelegirse; diputados que idem
+
+
 # Ejercicio: votaciones nominales en la cámara de diputados
 
 
@@ -86,11 +94,6 @@ Lecturas, ideas, temas
 -   Discutir ss intentos de gráficos.
 -   Rehacerla n vivo.
 -   Sacar patrnes para contar la historia
-
-
-# Ejercicio: cambio generacional congreso de Mx
-
--   <https://www.wcd.fyi/features/senate-generations/>
 
 
 # Ejercicio: proposiciones con puntos de acuerdo en la Cámara de Diputados
