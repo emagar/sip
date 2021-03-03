@@ -30,14 +30,14 @@ Lecturas, ideas, temas
 # Clase 1 (13 de enero)
 
 
-# Ejercicio 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
+# Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
 -   He subido el historial de sueño obtenido con un sensor fitbit [aquí](https://github.com/emagar/sip/blob/master/data/sleep-para-alumn.csv) y [aquí](https://github.com/emagar/sip/blob/master/data/sleep-raw-para-alumn.csv). Ojo: los datos se complementan y anoche (2021-01-11) no había incluido el 2o archivo!)
 -   Haga su mejor esfuerzo por hacer un croquis que cuente una historia. Si no consigue hacerlo, deberá contarnos cuál será su estrategia para abordar el problema.
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-# Ejercicio 2 (25 de enero): tweets y mercado bursátil
+# Ej. 2 (25 de enero): tweets y mercado bursátil
 
 ¿Los tweets de Trump movieron la bolsa? Plantee una ruta para contestar con datos e inicie su exploración.
 
@@ -55,7 +55,7 @@ Lecturas, ideas, temas
 -   Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
 
 
-# Ejercicio 3 (27 de enero): (des)confianza en el conteo de noviembre
+# Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre
 
 -   Planee el argumento de una historia en torno de las siguientes gráficas.
 
@@ -65,14 +65,14 @@ Lecturas, ideas, temas
 -   [Estrada+Poire 2007](https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf)
 
 
-# Ejercicio 4 (3 de febrero): *Reapportionment* 2022
+# Ej. 4 (3 de febrero): *Reapportionment* 2022
 
 -   [Szpiro ch 9 Founding Fathers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch09-founding-fathers.pdf)
 -   [Szpiro ch 10 Ivy Leaguers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch10-ivy-leaguers.pdf)
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
 
-# Ejercicio 5 (1 de marzo): cambio generacional congreso mexicano
+# Ej. 5 (1 de marzo): cambio generacional congreso mexicano
 
 -   Requiere poca info de mucha gente: año de nacimiento de diputados y/o senadores a lo largo de los años, quizás cada década?
 -   ¿cómo resumir esta info en un buen diagrama?
@@ -82,13 +82,28 @@ Lecturas, ideas, temas
 <https://www.wcd.fyi/features/senate-generations/>
 
 
-# Ejercicio: coaliciones que se vislumbran en los estados; alcaldes que aspiran a reelegirse; diputados que idem
+# Mujeres en cargos de elección (8 de marzo)
+
+-   Posible terminar de codificar sexos femenino y masculino [aquí](https://github.com/emagar/elecRetrns/blob/master/data/dfdf2000-present-incumbents.csv) y [aquí](https://github.com/emagar/elecRetrns/blob/master/data/aymu1989-present.incumbents.csv).
+-   Para después buscar variaciones en espacio y tiempo.
+-   [Tesis Piscopo 2010](https://github.com/emagar/sip/blob/master/lit/piscopo-dissertation-pref-ch2-ch3-2010.pdf)
 
 
-# Ejercicio: votaciones nominales en la cámara de diputados
+# Las dinastías electorales  (8 de marzo)
+
+-   Libro de [Dan Smith](https://github.com/emagar/sip/blob/master/lit/smithDanDynasticBookManuscript-1-24-2017.pdf). Lean bien caps. 1, 3 y 5. Caps 2 y 4 sólo echen un ojo rápido a los gráficos, permiten ven el argumento.
 
 
-# Ejercicio: votos y escaños
+# Temas próximos
+
+
+## Ejercicio: coaliciones que se vislumbran en los estados; alcaldes que aspiran a reelegirse; diputados que idem
+
+
+## Ejercicio: votaciones nominales en la cámara de diputados
+
+
+## Ejercicio: votos y escaños
 
 
 ## Usar los atos de seats and votes para hacer una representación gráfica que permita contar una historia (Rehacer mi seats-votes plot para OAS)
@@ -100,10 +115,7 @@ Lecturas, ideas, temas
 -   Sacar patrnes para contar la historia
 
 
-# Ejercicio: dinastías electorales
-
-
-# Ejercicio: proposiciones con puntos de acuerdo en la Cámara de Diputados
+## Ejercicio: proposiciones con puntos de acuerdo en la Cámara de Diputados
 
 
 ## Ejerciciorudimentario de scraping.
@@ -115,7 +127,7 @@ Lecturas, ideas, temas
 ## Extraer poposiciones (si no lo logran, deben poder describir lo que intentaron y dónde se atoraron).
 
 
-# Ejercicio: aproximación cardinal a la CPEUM
+## Ejercicio: aproximación cardinal a la CPEUM
 
 
 ## Scraping del sitio del IIJ
@@ -124,10 +136,10 @@ Lecturas, ideas, temas
 ## Variables dependientes?
 
 
-# Ejercicio: Regular expressions
+## Ejercicio: Regular expressions
 
 
-# Ejercicio de scraping en Python: Javascript y Selenium
+## Ejercicio de scraping en Python: Javascript y Selenium
 
 
 ## Sitios estáticos vs sitios dinámicos
@@ -139,7 +151,7 @@ Lecturas, ideas, temas
 ## Sitio del Congreso brasileño
 
 
-# No sé qué de esto vendrá al caso
+## No sé qué de esto vendrá al caso
 
 
 ## Caricatura política
@@ -187,7 +199,7 @@ Lecturas, ideas, temas
 ## Encuesta ITAM: cambio de hábitos covid, tipo esto <https://www.economist.com/the-world-ahead/2020/11/17/what-does-it-take-to-make-a-new-habit-stick>
 
 
-# Herramientas
+## Herramientas
 
 
 ## Git y github
