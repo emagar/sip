@@ -46,9 +46,8 @@ Lecturas, ideas, temas
 
 -   [Cómo obtener los tweets de Trump](https://qz.com/1955036/where-to-find-trumps-tweets-now-that-hes-banned-from-twitter/)
 -   [Acervo de tweets de Trump](https://www.thetrumparchive.com/)
--   [Estrada+Poire 2007](https://github.com/emagar/sip/blob/master/lit/benton-philips-trump-tweets2020ajps.pdf)
-
-][Paper Benton-Philips]
+-   [Estrada+Poire 2007](https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf)
+-   [Paper Benton-Philips](https://github.com/emagar/sip/blob/master/lit/benton-philips-trump-tweets2020ajps.pdf)
 
 
 ## Código
@@ -73,9 +72,14 @@ Lecturas, ideas, temas
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
 
-# Ejercicio 5 (1 de marzo): cambio generacional congreso mexicano &#x2013; ¿quién toma el tema?
+# Ejercicio 5 (1 de marzo): cambio generacional congreso mexicano
 
--   <https://www.wcd.fyi/features/senate-generations/>
+-   Requiere poca info de mucha gente: año de nacimiento de diputados y/o senadores a lo largo de los años, quizás cada década?
+-   ¿cómo resumir esta info en un buen diagrama?
+-   P.ej.:
+
+![img](./pics/gen-control-senate.png) 
+<https://www.wcd.fyi/features/senate-generations/>
 
 
 # Ejercicio: coaliciones que se vislumbran en los estados; alcaldes que aspiran a reelegirse; diputados que idem
@@ -94,6 +98,9 @@ Lecturas, ideas, temas
 -   Discutir ss intentos de gráficos.
 -   Rehacerla n vivo.
 -   Sacar patrnes para contar la historia
+
+
+# Ejercicio: dinastías electorales
 
 
 # Ejercicio: proposiciones con puntos de acuerdo en la Cámara de Diputados
