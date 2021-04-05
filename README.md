@@ -1,50 +1,49 @@
 
 # &Iacute;ndice
 
-1.  [Clase 1 (13 de enero)](#orgceabccb)
-2.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#orgf488852)
-3.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org3df43ea)
-    1.  [Enlaces útiles](#orgb9f0eb6)
-    2.  [Código](#org90447de)
-4.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#org40193aa)
-5.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#org1eaef7b)
-6.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#org6ac8282)
-7.  [Mujeres en cargos de elección (8 de marzo)](#org5090d65)
-    1.  [Minorías, gerontocracias](#org4cbb1d5)
-8.  [Las dinastías electorales  (15 de marzo)](#org7bb274b)
-9.  [Excess deaths](#orge4ff119)
-10. [Borradores de wikipedia](#org023fa2a)
-11. [Scraping](#org5a36825)
-    1.  [Proposiciones con puntos de acuerdo en la Cámara de Diputados.](#org6ee9e06)
-    2.  [Aproximación cardinal a la CPEUM (sitio del IIJ).](#org0d57901)
-    3.  [Regular expressions](#orgc9b06c6)
-    4.  [Sitios estáticos vs sitios dinámicos: Python, Javascript y Selenium](#orgeb7055d)
-    5.  [Sitio del Congreso chileno](#orga89e891)
-    6.  [Sitio del Congreso brasileño](#orgf7cb04e)
-    7.  [El infierno de los character encodings](#org11acb41)
-12. [Georreferenciación](#org18df280)
-13. [Temas próximos](#org10dab34)
-    1.  [Patronimios y matronimios en el poder judicial, Julio Ríos](#orga9173b5)
-    2.  [Git y github](#orgf5c094b)
-    3.  [New Yorker football scouts como comparativo del tino de nombramientos.](#orgeb24b07)
-    4.  [Ejercicio: coaliciones que se vislumbran en los estados; alcaldes que aspiran a reelegirse; diputados que idem](#org14c5d29)
-    5.  [Ejercicio: votaciones nominales en la cámara de diputados](#orgab22732)
-    6.  [Ejercicio: votos y escaños](#org1f213a3)
-    7.  [Usar los datos de seats and votes: representación gráfica que permita contar una historia (Rehacer mi seats-votes plot para OAS)](#orgb4a6c82)
-    8.  [No sé qué de esto vendrá al caso](#org5ac9b52)
-    9.  [Caricatura política](#orgc2d7e4b)
-    10. [Ejercicio inicial: Historia de música que escucharon en 2020](#orgc0a2248)
-    11. [Replicar el diagrama radial de @coulmont](#org321068b)
-    12. [Alma Guillermoprieto, basureros como un ejemplo con entrevistas](#org850bae7)
-    13. [Efficient secret.](#orga26f5e0)
-    14. [CSES.](#orgfe725d7)
-    15. [Dinastías políticas, Smith. Que lo apliquen a un estado desde el porfiriato.](#org224b599)
-    16. [Edades de los diputados a través de las legislaturas](#org5cade25)
-    17. [Llenar biografías de alcaldes y municipios en wikipedia](#org2ff4e55)
-    18. [Dificultad de colaboración epidemiólogos/economistas Ver free exchange 14nov](#orgc87e4ac)
-    19. [Quizás https://economia.nexos.com.mx/?p=3456 <- aplicarlo a indígenas, a ex-beneficiarios de progresa/seguro popular](#org24dc08d)
-    20. [Encuesta ITAM: cambio de hábitos covid, tipo esto https://www.economist.com/the-world-ahead/2020/11/17/what-does-it-take-to-make-a-new-habit-stick](#org7345f10)
-    21. [Herramientas](#org57ca54c)
+1.  [Clase 1 (13 de enero)](#org5b5f836)
+2.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#org98eaf2e)
+3.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#orge4e04f0)
+    1.  [Enlaces útiles](#org4a00f33)
+    2.  [Código](#orgb073c51)
+4.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#org906a9ef)
+5.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#org4925a3c)
+6.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#orgdb7cb86)
+7.  [Mujeres en cargos de elección (8 de marzo)](#org37930f7)
+    1.  [Minorías, gerontocracias](#org9a96948)
+8.  [Las dinastías electorales  (15 de marzo)](#orga2f300c)
+9.  [Excess deaths](#org6b52d59)
+10. [Borradores de wikipedia](#orgb19932c)
+11. [Scraping](#orgee8fde8)
+    1.  [Sitios estáticos vs sitios dinámicos](#org0aba674)
+    2.  [Proposiciones con puntos de acuerdo en la Cámara de Diputados.](#orgb145dc8)
+    3.  [Aproximación cardinal a la CPEUM (sitio del IIJ).](#org16adbf3)
+    4.  [Regular expressions](#org71126c8)
+    5.  [Sitio del Congreso chileno](#orgbbc4b81)
+    6.  [El infierno de los *character encodings*](#org7429d4a)
+12. [Georreferenciación](#org61ead52)
+13. [Temas próximos](#orgf122a42)
+    1.  [Patronimios y matronimios en el poder judicial, Julio Ríos](#orgf27a768)
+    2.  [Git y github](#orgcd65607)
+    3.  [New Yorker football scouts como comparativo del tino de nombramientos.](#org8006b45)
+    4.  [Ejercicio: coaliciones que se vislumbran en los estados; alcaldes que aspiran a reelegirse; diputados que idem](#orgc3db0ff)
+    5.  [Ejercicio: votaciones nominales en la cámara de diputados](#org5380f4d)
+    6.  [Ejercicio: votos y escaños](#orgd975dc3)
+    7.  [Usar los datos de seats and votes: representación gráfica que permita contar una historia (Rehacer mi seats-votes plot para OAS)](#org2290a7c)
+    8.  [No sé qué de esto vendrá al caso](#org8e4ad3a)
+    9.  [Caricatura política](#org001aeec)
+    10. [Ejercicio inicial: Historia de música que escucharon en 2020](#org7805ded)
+    11. [Replicar el diagrama radial de @coulmont](#orga177d64)
+    12. [Alma Guillermoprieto, basureros como un ejemplo con entrevistas](#org8e92623)
+    13. [Efficient secret.](#org242045a)
+    14. [CSES.](#org6c8d6ec)
+    15. [Dinastías políticas, Smith. Que lo apliquen a un estado desde el porfiriato.](#orgc3c1b26)
+    16. [Edades de los diputados a través de las legislaturas](#org3900667)
+    17. [Llenar biografías de alcaldes y municipios en wikipedia](#orged621d4)
+    18. [Dificultad de colaboración epidemiólogos/economistas Ver free exchange 14nov](#org4dc673f)
+    19. [Quizás https://economia.nexos.com.mx/?p=3456 <- aplicarlo a indígenas, a ex-beneficiarios de progresa/seguro popular](#orgcad0970)
+    20. [Encuesta ITAM: cambio de hábitos covid, tipo esto https://www.economist.com/the-world-ahead/2020/11/17/what-does-it-take-to-make-a-new-habit-stick](#org01e8415)
+    21. [Herramientas](#orge88378f)
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -77,14 +76,15 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ---
 
 Lecturas, ideas, temas
+<a id="org9540065"></a>
 
 
-<a id="orgceabccb"></a>
+<a id="org5b5f836"></a>
 
 # Clase 1 (13 de enero)
 
 
-<a id="orgf488852"></a>
+<a id="org98eaf2e"></a>
 
 # Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
@@ -93,14 +93,14 @@ Lecturas, ideas, temas
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-<a id="org3df43ea"></a>
+<a id="orge4e04f0"></a>
 
 # Ej. 2 (25 de enero): tweets y mercado bursátil
 
 ¿Los tweets de Trump movieron la bolsa? Plantee una ruta para contestar con datos e inicie su exploración.
 
 
-<a id="orgb9f0eb6"></a>
+<a id="org4a00f33"></a>
 
 ## Enlaces útiles
 
@@ -110,14 +110,14 @@ Lecturas, ideas, temas
 -   [Paper Benton-Philips](https://github.com/emagar/sip/blob/master/lit/benton-philips-trump-tweets2020ajps.pdf)
 
 
-<a id="org90447de"></a>
+<a id="orgb073c51"></a>
 
 ## Código
 
 -   Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
 
 
-<a id="org40193aa"></a>
+<a id="org906a9ef"></a>
 
 # Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre
 
@@ -129,7 +129,7 @@ Lecturas, ideas, temas
 -   [Estrada+Poire 2007](https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf)
 
 
-<a id="org1eaef7b"></a>
+<a id="org4925a3c"></a>
 
 # Ej. 4 (3 de febrero): *Reapportionment* 2022
 
@@ -138,7 +138,7 @@ Lecturas, ideas, temas
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
 
-<a id="org6ac8282"></a>
+<a id="orgdb7cb86"></a>
 
 # Ej. 5 (1 de marzo): cambio generacional congreso mexicano
 
@@ -150,7 +150,7 @@ Lecturas, ideas, temas
 <https://www.wcd.fyi/features/senate-generations/>
 
 
-<a id="org5090d65"></a>
+<a id="org37930f7"></a>
 
 # Mujeres en cargos de elección (8 de marzo)
 
@@ -160,7 +160,7 @@ Lecturas, ideas, temas
 -   [Tesis Piscopo 2010](https://github.com/emagar/sip/blob/master/lit/piscopo-dissertation-pref-ch2-ch3-2010.pdf)
 
 
-<a id="org4cbb1d5"></a>
+<a id="org9a96948"></a>
 
 ## Minorías, gerontocracias
 
@@ -168,7 +168,7 @@ Lecturas, ideas, temas
 -   McClean, [Silver democracy](https://www.charlesmcclean.com/book-project).
 
 
-<a id="org7bb274b"></a>
+<a id="orga2f300c"></a>
 
 # Las dinastías electorales  (15 de marzo)
 
@@ -180,7 +180,7 @@ Lecturas, ideas, temas
 -   Ottinger-Voigtländer 2021 [Monarchs and state performance](https://github.com/emagar/sip/blob/master/lit/ottinger-voigtlander-Inbred-leaders2021.pdf).
 
 
-<a id="orge4ff119"></a>
+<a id="org6b52d59"></a>
 
 # Excess deaths
 
@@ -193,132 +193,70 @@ Lecturas, ideas, temas
 -   [Datos del *Financial Times*](https://github.com/emagar/coronavirus-excess-mortality-data).
 
 
-<a id="org023fa2a"></a>
+<a id="orgb19932c"></a>
 
 # Borradores de wikipedia
 
-<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+-   Bárbara [CBT](https://es.wikipedia.org/wiki/Terapias_cognitivo-conductuales#Críticas)
+-   Juan Pablo [Dinastías Veracruz](https://es.wikipedia.org/wiki/Dinastías_de_Veracruz_(México)) y [dinastías políticas](https://es.wikipedia.org/wiki/Dinastía)
+-   Manuel Ch. [Ley de cuotas](https://es.wikipedia.org/wiki/Ley_de_cuotas)
+-   Manuel M. [JCyA](https://en.wikipedia.org/wiki/Draft:Juntas_de_Conciliación_y_Arbitraje)
+-   Marina [Guerra terror](https://es.wikipedia.org/wiki/Guerra_contra_el_terrorismo)
+-   Miguel [Impeachment](https://es.wikipedia.org/wiki/Proceso_de_destitución#Honduras)
+-   Vidal [Agricultura michoacana](https://en.wikipedia.org/wiki/Draft:Michoacán_agriculture)
+
+[Hasta arriba](#org9540065)
 
 
-<colgroup>
-<col  class="org-left" />
-
-<col  class="org-left" />
-
-<col  class="org-left" />
-</colgroup>
-<thead>
-<tr>
-<th scope="col" class="org-left">&#xa0;</th>
-<th scope="col" class="org-left">Enlace</th>
-<th scope="col" class="org-left">Comenta a</th>
-</tr>
-</thead>
-
-<tbody>
-<tr>
-<td class="org-left">Bárbara</td>
-<td class="org-left">[CBT](https://es.wikipedia.org/wiki/Terapias_cognitivo-conductuales#Críticas)</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Juan Pablo</td>
-<td class="org-left">[Dinastías Veracruz](https://es.wikipedia.org/wiki/Dinastías_de_Veracruz_(México)) y [dinastías políticas](https://es.wikipedia.org/wiki/Dinastía)</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Manuel Ch.</td>
-<td class="org-left">[Ley de cuotas](https://es.wikipedia.org/wiki/Ley_de_cuotas)</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Manuel M.</td>
-<td class="org-left">[JCyA](https://en.wikipedia.org/wiki/Draft:Juntas_de_Conciliación_y_Arbitraje)</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Marina</td>
-<td class="org-left">[Guerra terror](https://es.wikipedia.org/wiki/Guerra_contra_el_terrorismo)</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Miguel</td>
-<td class="org-left">[Impeachment](https://es.wikipedia.org/wiki/Proceso_de_destitución#Honduras)</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">Vidal</td>
-<td class="org-left">[Agricultura michoacana](https://en.wikipedia.org/wiki/Draft:Michoacán_agriculture)</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-
-
-<tr>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-<td class="org-left">&#xa0;</td>
-</tr>
-</tbody>
-</table>
-
-
-<a id="org5a36825"></a>
+<a id="orgee8fde8"></a>
 
 # Scraping
 
 -   [Jackman Data from the web into R](https://github.com/emagar/sip/blob/master/lit/tpm_v14_n2.pdf)
 
 
-<a id="org6ee9e06"></a>
+<a id="org0aba674"></a>
+
+## Sitios estáticos vs sitios dinámicos
+
+
+<a id="orgb145dc8"></a>
 
 ## Proposiciones con puntos de acuerdo en la Cámara de Diputados.
 
-Extraer proposiciones (si no lo logran, deben poder describir lo que intentaron y dónde se atoraron). 
+-   Ejemplo de sitio estático
+-   Cámara detuvo sistematización [hace un año !!](http://gaceta.diputados.gob.mx/gp_propos.html)
+-   Ayer arrancaron las campañas ¿los ocupantes que buscaron renominarse se distinguen en cantidad/calidad de proposiciones?
+-   Extraigan proposiciones (si no lo logran, describan lo que intentaron y dónde se atoraron).
 
 
-<a id="org0d57901"></a>
+<a id="org16adbf3"></a>
 
 ## Aproximación cardinal a la CPEUM (sitio del IIJ).
 
 
-<a id="orgc9b06c6"></a>
+<a id="org71126c8"></a>
 
 ## Regular expressions
 
 
-<a id="orgeb7055d"></a>
-
-## Sitios estáticos vs sitios dinámicos: Python, Javascript y Selenium
-
-
-<a id="orga89e891"></a>
+<a id="orgbbc4b81"></a>
 
 ## Sitio del Congreso chileno
 
-
-<a id="orgf7cb04e"></a>
-
-## Sitio del Congreso brasileño
+-   Ejemplo de sitio dinámico
+-   Javascript, Python y Selenium
 
 
-<a id="org11acb41"></a>
+<a id="org7429d4a"></a>
 
-## El infierno de los character encodings
+## El infierno de los *character encodings*
+
+-   Manual de Python solía tener una historia&#x2026;
+-   [Absolute minimum about unicode and character sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
-<a id="org18df280"></a>
+<a id="org61ead52"></a>
 
 # Georreferenciación
 
@@ -327,42 +265,42 @@ Extraer proposiciones (si no lo logran, deben poder describir lo que intentaron 
 -   Mapa de AMLO 2018
 
 
-<a id="org10dab34"></a>
+<a id="orgf122a42"></a>
 
 # Temas próximos
 
 
-<a id="orga9173b5"></a>
+<a id="orgf27a768"></a>
 
 ## Patronimios y matronimios en el poder judicial, Julio Ríos
 
 
-<a id="orgf5c094b"></a>
+<a id="orgcd65607"></a>
 
 ## Git y github
 
 
-<a id="orgeb24b07"></a>
+<a id="org8006b45"></a>
 
 ## New Yorker football scouts como comparativo del tino de nombramientos.
 
 
-<a id="org14c5d29"></a>
+<a id="orgc3db0ff"></a>
 
 ## Ejercicio: coaliciones que se vislumbran en los estados; alcaldes que aspiran a reelegirse; diputados que idem
 
 
-<a id="orgab22732"></a>
+<a id="org5380f4d"></a>
 
 ## Ejercicio: votaciones nominales en la cámara de diputados
 
 
-<a id="org1f213a3"></a>
+<a id="orgd975dc3"></a>
 
 ## Ejercicio: votos y escaños
 
 
-<a id="orgb4a6c82"></a>
+<a id="org2290a7c"></a>
 
 ## Usar los datos de seats and votes: representación gráfica que permita contar una historia (Rehacer mi seats-votes plot para OAS)
 
@@ -373,72 +311,72 @@ Extraer proposiciones (si no lo logran, deben poder describir lo que intentaron 
 -   Sacar patrnes para contar la historia
 
 
-<a id="org5ac9b52"></a>
+<a id="org8e4ad3a"></a>
 
 ## No sé qué de esto vendrá al caso
 
 
-<a id="orgc2d7e4b"></a>
+<a id="org001aeec"></a>
 
 ## Caricatura política
 
 
-<a id="orgc0a2248"></a>
+<a id="org7805ded"></a>
 
 ## Ejercicio inicial: Historia de música que escucharon en 2020
 
 
-<a id="org321068b"></a>
+<a id="orga177d64"></a>
 
 ## Replicar el diagrama radial de @coulmont
 
 
-<a id="org850bae7"></a>
+<a id="org8e92623"></a>
 
 ## Alma Guillermoprieto, basureros como un ejemplo con entrevistas
 
 
-<a id="orga26f5e0"></a>
+<a id="org242045a"></a>
 
 ## Efficient secret.
 
 
-<a id="orgfe725d7"></a>
+<a id="org6c8d6ec"></a>
 
 ## CSES.
 
 
-<a id="org224b599"></a>
+<a id="orgc3c1b26"></a>
 
 ## Dinastías políticas, Smith. Que lo apliquen a un estado desde el porfiriato.
 
 
-<a id="org5cade25"></a>
+<a id="org3900667"></a>
 
 ## Edades de los diputados a través de las legislaturas
 
 
-<a id="org2ff4e55"></a>
+<a id="orged621d4"></a>
 
 ## Llenar biografías de alcaldes y municipios en wikipedia
 
 
-<a id="orgc87e4ac"></a>
+<a id="org4dc673f"></a>
 
 ## Dificultad de colaboración epidemiólogos/economistas Ver free exchange 14nov
 
 
-<a id="org24dc08d"></a>
+<a id="orgcad0970"></a>
 
 ## Quizás <https://economia.nexos.com.mx/?p=3456> <- aplicarlo a indígenas, a ex-beneficiarios de progresa/seguro popular
 
 
-<a id="org7345f10"></a>
+<a id="org01e8415"></a>
 
 ## Encuesta ITAM: cambio de hábitos covid, tipo esto <https://www.economist.com/the-world-ahead/2020/11/17/what-does-it-take-to-make-a-new-habit-stick>
 
 
-<a id="org57ca54c"></a>
+<a id="orge88378f"></a>
 
 ## Herramientas
 
