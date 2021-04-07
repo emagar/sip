@@ -1,0 +1,34 @@
+From http://alexgaudio.com/2011/07/24/sharing-part-your-repo-github.html
+
+branches: master - all files
+          github - subset that will be pushed to git hub (lo llamé publish en pc3)
+
+Add files to subset:
+
+git checkout github
+git checkout master file-name
+git commit
+
+Drop files from subset:
+
+git checkout github
+git rm -rf file-to-drop
+git commit
+
+There is a hook that pushes subset to 'public_repo' remote whenever master is committed. 
+It can be done manually thus:
+
+git push public_repo github:master  # ie. push github to public_repo/master
+
+# copy-paste for quick temario update
+git checkout master
+git add .
+git status
+git commit -am 'Edita temario'
+git checkout github
+git checkout master README.md
+git commit -am 'Edita temario p'
+git checkout master
+
+
+
