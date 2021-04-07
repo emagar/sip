@@ -1,21 +1,21 @@
 
 # &Iacute;ndice
 
-1.  [Clase 1 (13 de enero)](#org4780fff)
-2.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#orgc787daf)
-3.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org7c27f98)
-4.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#org9aa7852)
-5.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#org11cf298)
-6.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#orgaa9277b)
-7.  [Mujeres en cargos de elección (8 de marzo)](#org87ededd)
-8.  [Las dinastías electorales  (15 de marzo)](#org02457c1)
-9.  [Excess deaths](#orgc522fbc)
-10. [Borradores de wikipedia](#orgeb20660)
-11. [Scraping](#org32e2da3)
-12. [Georreferenciación](#orgf2a2646)
-13. [Temas próximos](#org54295b4)
+1.  [Clase 1 (13 de enero)](#orgd80332f)
+2.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#org577992b)
+3.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org8c31546)
+4.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#org434b23f)
+5.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#org9dd42ad)
+6.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#org5f7a003)
+7.  [Mujeres en cargos de elección (8 de marzo)](#orgcba1708)
+8.  [Las dinastías electorales  (15 de marzo)](#orgc91de24)
+9.  [Excess deaths](#org0086f61)
+10. [Borradores de wikipedia](#org041b3c6)
+11. [Scraping](#org3b62f2b)
+12. [Georreferenciación](#org5aea712)
+13. [Temas próximos](#org54dbaf4)
 
-<a id="orgd2fdae7"></a>
+<a id="org026baaf"></a>
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -50,12 +50,12 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 Lecturas, ideas, temas
 
 
-<a id="org4780fff"></a>
+<a id="orgd80332f"></a>
 
 # Clase 1 (13 de enero)
 
 
-<a id="orgc787daf"></a>
+<a id="org577992b"></a>
 
 # Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
@@ -64,7 +64,7 @@ Lecturas, ideas, temas
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-<a id="org7c27f98"></a>
+<a id="org8c31546"></a>
 
 # Ej. 2 (25 de enero): tweets y mercado bursátil
 
@@ -84,10 +84,10 @@ Lecturas, ideas, temas
 
 -   Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
 
-[Arriba](#orgd2fdae7)
+[Arriba](#org026baaf)
 
 
-<a id="org9aa7852"></a>
+<a id="org434b23f"></a>
 
 # Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre
 
@@ -98,10 +98,10 @@ Lecturas, ideas, temas
 
 -   [[<https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf>][Estrada+Poire 2007]
 
-[Arriba](#orgd2fdae7)
+[Arriba](#org026baaf)
 
 
-<a id="org11cf298"></a>
+<a id="org9dd42ad"></a>
 
 # Ej. 4 (3 de febrero): *Reapportionment* 2022
 
@@ -109,10 +109,10 @@ Lecturas, ideas, temas
 -   [Szpiro ch 10 Ivy Leaguers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch10-ivy-leaguers.pdf)
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
-[Arriba](#orgd2fdae7)
+[Arriba](#org026baaf)
 
 
-<a id="orgaa9277b"></a>
+<a id="org5f7a003"></a>
 
 # Ej. 5 (1 de marzo): cambio generacional congreso mexicano
 
@@ -123,10 +123,10 @@ Lecturas, ideas, temas
 ![img](./pics/gen-control-senate.png) 
 <https://www.wcd.fyi/features/senate-generations/>
 
-[Arriba](#orgd2fdae7)
+[Arriba](#org026baaf)
 
 
-<a id="org87ededd"></a>
+<a id="orgcba1708"></a>
 
 # Mujeres en cargos de elección (8 de marzo)
 
@@ -135,7 +135,7 @@ Lecturas, ideas, temas
 -   Para después buscar variaciones en espacio y tiempo.
 -   [Tesis Piscopo 2010](https://github.com/emagar/sip/blob/master/lit/piscopo-dissertation-pref-ch2-ch3-2010.pdf)
 
-[Arriba](#orgd2fdae7)
+[Arriba](#org026baaf)
 
 
 ## Minorías, gerontocracias
@@ -144,7 +144,7 @@ Lecturas, ideas, temas
 -   McClean, [Silver democracy](https://www.charlesmcclean.com/book-project).
 
 
-<a id="org02457c1"></a>
+<a id="orgc91de24"></a>
 
 # Las dinastías electorales  (15 de marzo)
 
@@ -158,10 +158,10 @@ Lecturas, ideas, temas
 -   Falta: caso UK en The Son also Rises.
 -   Otro pendiente: Patronimios y matronimios en el poder judicial, Julio Ríos
 
-[Arriba](#orgd2fdae7)
+[Arriba](#org026baaf)
 
 
-<a id="orgc522fbc"></a>
+<a id="org0086f61"></a>
 
 # Excess deaths
 
@@ -173,10 +173,10 @@ Lecturas, ideas, temas
 -   [Economist tracker](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker).
 -   [Datos del *Financial Times*](https://github.com/emagar/coronavirus-excess-mortality-data).
 
-[Arriba](#orgd2fdae7)
+[Arriba](#org026baaf)
 
 
-<a id="orgeb20660"></a>
+<a id="org041b3c6"></a>
 
 # Borradores de wikipedia
 
@@ -198,11 +198,15 @@ Lecturas, ideas, temas
 8.  Miguel [Impeachment](https://es.wikipedia.org/wiki/Proceso_de_destitución#Honduras)
     -   Retro eric: Hice corrección de estilo en el wiki.
 9.  Mirna [Exceso de mortalidad](https://es.wikipedia.org/wiki/Exceso_de_mortalidad)
+    -   Retro eric: he dejado anotaciones en 'discusión'.
+    -   Vidal dará retroalimentación.
 10. Pamela [Servicio salud penitenciario](https://es.wikipedia.org/wiki/Usuario_discusión:Pamelaquirarte#Servicios_de_Salud_en_Centros_Penitenciarios_Mexicanos)
-11. Santiago [uno](https://en.wikipedia.org/wiki/Guadalajara_Metropolitan_Area) y [Area metro GDL](https://nam04.safelinks.protection.outlook.com/?url=https://en.wikipedia.org/wiki/Special:ContentTranslation?title=Special:ContentTranslation&campaign=specialcx&gettingStartedReturn=true&page=Zona+metropolitana+de+Guadalajara&from=es&to=en&targettitle=Guadalajara+Metropolitan+Area+&data=04|01|emagar@itam.mx|4c7164bfe5824b05aaff08d8f86593f2|bc5eb99989e34663b72f13c503ec23cc|0|0|637532462450885138|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=|1000&sdata=dtK44spVxDa/Lg8NnPwguPpZHsyvUlWCdKwFwJJaU7c=&reserved=0)
+11. Santiago [Area metro GDL](https://en.wikipedia.org/wiki/Guadalajara_Metropolitan_Area) y [otro](https://nam04.safelinks.protection.outlook.com/?url=https://en.wikipedia.org/wiki/Special:ContentTranslation?title=Special:ContentTranslation&campaign=specialcx&gettingStartedReturn=true&page=Zona+metropolitana+de+Guadalajara&from=es&to=en&targettitle=Guadalajara+Metropolitan+Area+&data=04|01|emagar@itam.mx|4c7164bfe5824b05aaff08d8f86593f2|bc5eb99989e34663b72f13c503ec23cc|0|0|637532462450885138|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0=|1000&sdata=dtK44spVxDa/Lg8NnPwguPpZHsyvUlWCdKwFwJJaU7c=&reserved=0)
     -   Me parece que el editor quitó la foto que pusiste porque no la subiste a wikimedia commons. ¿Es una foto original tuya? Parecen dudar de los derechos de autor.
+    -   Manda link 2, está roto.
 12. Vidal [Agricultura michoacana](https://en.wikipedia.org/wiki/Draft:Michoacán_agriculture) 
     -   Retro eric: corregí estilo y dejé comentario en talk
+    -   Manuel M. dará retroalimentación.
 
 
 ## No han entregado (al 6 de abril)
@@ -214,10 +218,10 @@ Lecturas, ideas, temas
 5.  Fermín
 6.  Gabriela
 
-[Arriba](#orgd2fdae7)
+[Arriba](#org026baaf)
 
 
-<a id="org32e2da3"></a>
+<a id="org3b62f2b"></a>
 
 # Scraping
 
@@ -244,7 +248,7 @@ Lecturas, ideas, temas
 -   [Prueba tus expresiones regulares en línea](https://regex101.com/).
 -   [Discursos en la cámara de diputados](https://github.com/emagar/sip/blob/master/lit/magar-legdeb04.pdf).
 
-[Arriba](#orgd2fdae7)
+[Arriba](#org026baaf)
 
 
 ## Sitio del Congreso chileno
@@ -259,7 +263,7 @@ Lecturas, ideas, temas
 -   [Absolute minimum about unicode and character sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
-<a id="orgf2a2646"></a>
+<a id="org5aea712"></a>
 
 # Georreferenciación
 
@@ -268,7 +272,7 @@ Lecturas, ideas, temas
 -   Mapa de AMLO 2018
 
 
-<a id="org54295b4"></a>
+<a id="org54dbaf4"></a>
 
 # Temas próximos
 
