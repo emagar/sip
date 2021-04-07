@@ -1,21 +1,21 @@
 
 # &Iacute;ndice
 
-1.  [Clase 1 (13 de enero)](#orgecaf35f)
-2.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#orgb4ee46f)
-3.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#orgfde429a)
-4.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#org1177a85)
-5.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#orgf705306)
-6.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#org5eba59f)
-7.  [Mujeres en cargos de elección (8 de marzo)](#orge2f1600)
-8.  [Las dinastías electorales  (15 de marzo)](#org2beb669)
-9.  [Excess deaths](#org1cf4ef6)
-10. [Borradores de wikipedia](#orgf81b1dc)
-11. [Scraping](#org999c7be)
-12. [Georreferenciación](#org3891fb7)
-13. [Temas próximos](#org6c67511)
+1.  [Clase 1 (13 de enero)](#orge62177e)
+2.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#org86138e1)
+3.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org972e07e)
+4.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#org0de8c8d)
+5.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#orga207fe0)
+6.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#orgf7330ad)
+7.  [Mujeres en cargos de elección (8 de marzo)](#org6eeaf36)
+8.  [Las dinastías electorales  (15 de marzo)](#orgb90206a)
+9.  [Excess deaths](#org8359b7c)
+10. [Borradores de wikipedia](#orgafb9044)
+11. [Scraping](#org6052967)
+12. [Georreferenciación](#org7692327)
+13. [Temas próximos](#org14397c7)
 
-<a id="org063f6af"></a>
+<a id="org7a3072e"></a>
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -50,12 +50,12 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 Lecturas, ideas, temas
 
 
-<a id="orgecaf35f"></a>
+<a id="orge62177e"></a>
 
 # Clase 1 (13 de enero)
 
 
-<a id="orgb4ee46f"></a>
+<a id="org86138e1"></a>
 
 # Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
@@ -64,7 +64,7 @@ Lecturas, ideas, temas
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-<a id="orgfde429a"></a>
+<a id="org972e07e"></a>
 
 # Ej. 2 (25 de enero): tweets y mercado bursátil
 
@@ -84,10 +84,10 @@ Lecturas, ideas, temas
 
 -   Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
 
-[Arriba](#org063f6af)
+[Arriba](#org7a3072e)
 
 
-<a id="org1177a85"></a>
+<a id="org0de8c8d"></a>
 
 # Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre
 
@@ -98,10 +98,10 @@ Lecturas, ideas, temas
 
 -   [[<https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf>][Estrada+Poire 2007]
 
-[Arriba](#org063f6af)
+[Arriba](#org7a3072e)
 
 
-<a id="orgf705306"></a>
+<a id="orga207fe0"></a>
 
 # Ej. 4 (3 de febrero): *Reapportionment* 2022
 
@@ -109,10 +109,10 @@ Lecturas, ideas, temas
 -   [Szpiro ch 10 Ivy Leaguers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch10-ivy-leaguers.pdf)
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
-[Arriba](#org063f6af)
+[Arriba](#org7a3072e)
 
 
-<a id="org5eba59f"></a>
+<a id="orgf7330ad"></a>
 
 # Ej. 5 (1 de marzo): cambio generacional congreso mexicano
 
@@ -123,10 +123,10 @@ Lecturas, ideas, temas
 ![img](./pics/gen-control-senate.png) 
 <https://www.wcd.fyi/features/senate-generations/>
 
-[Arriba](#org063f6af)
+[Arriba](#org7a3072e)
 
 
-<a id="orge2f1600"></a>
+<a id="org6eeaf36"></a>
 
 # Mujeres en cargos de elección (8 de marzo)
 
@@ -135,7 +135,7 @@ Lecturas, ideas, temas
 -   Para después buscar variaciones en espacio y tiempo.
 -   [Tesis Piscopo 2010](https://github.com/emagar/sip/blob/master/lit/piscopo-dissertation-pref-ch2-ch3-2010.pdf)
 
-[Arriba](#org063f6af)
+[Arriba](#org7a3072e)
 
 
 ## Minorías, gerontocracias
@@ -144,7 +144,7 @@ Lecturas, ideas, temas
 -   McClean, [Silver democracy](https://www.charlesmcclean.com/book-project).
 
 
-<a id="org2beb669"></a>
+<a id="orgb90206a"></a>
 
 # Las dinastías electorales  (15 de marzo)
 
@@ -158,10 +158,10 @@ Lecturas, ideas, temas
 -   Falta: caso UK en The Son also Rises.
 -   Otro pendiente: Patronimios y matronimios en el poder judicial, Julio Ríos
 
-[Arriba](#org063f6af)
+[Arriba](#org7a3072e)
 
 
-<a id="org1cf4ef6"></a>
+<a id="org8359b7c"></a>
 
 # Excess deaths
 
@@ -173,21 +173,22 @@ Lecturas, ideas, temas
 -   [Economist tracker](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker).
 -   [Datos del *Financial Times*](https://github.com/emagar/coronavirus-excess-mortality-data).
 
-[Arriba](#org063f6af)
+[Arriba](#org7a3072e)
 
 
-<a id="orgf81b1dc"></a>
+<a id="orgafb9044"></a>
 
 # Borradores de wikipedia
 
-1.  Bárbara [CBT](https://es.wikipedia.org/wiki/Terapias_cognitivo-conductuales#Críticas) [retro eric X]
+1.  Bárbara [CBT](https://es.wikipedia.org/wiki/Terapias_cognitivo-conductuales#Críticas)
     -   Retro eric: Hice corrección de estilo en el wiki.
     -   Falta quitar muchos anglicismos. Por la extensión del texto, quizás convenga que pulas sólo una parte y dejes un comentario en 'discusión' para que otros te ayuden con el resto.
 2.  Carolina y Jorge [Desigualdad](https://es.wikipedia.org/wiki/Desigualdades_en_México)
 3.  Juan Pablo [Dinastías Veracruz](https://es.wikipedia.org/wiki/Dinastías_de_Veracruz_(México)) y [dinastías políticas](https://es.wikipedia.org/wiki/Dinastía) 
     -   Retro eric: alternativa a 'candidato heredado' es 'hereditario', ¿cuál traduce mejor *legacy candidate*?
     -   Sugiero convertir el texto de 'Dinastías Veracruz' (que el editor borró, increíble) en una sección nueva al final de 'Dinastías políticas'.
-4.  Manuel Ch. [Ley de cuotas](https://es.wikipedia.org/wiki/Ley_de_cuotas)
+4.  Manuel Ch. [Ley de cuotas](https://es.wikipedia.org/wiki/Ley_de_cuotas) 
+    -   Retro Eric: dejé observaciones en la 'discusión'.
 5.  Manuel M. [JCyA](https://en.wikipedia.org/wiki/Draft:Juntas_de_Conciliación_y_Arbitraje)
     -   Retro eric: Hice corrección de estilo en el wiki.
     -   Tendré que ver de nuevo cuando haya progresado el borrador, que estaba en ciernes.
@@ -212,10 +213,10 @@ Lecturas, ideas, temas
 5.  Fermín
 6.  Gabriela
 
-[Arriba](#org063f6af)
+[Arriba](#org7a3072e)
 
 
-<a id="org999c7be"></a>
+<a id="org6052967"></a>
 
 # Scraping
 
@@ -242,7 +243,7 @@ Lecturas, ideas, temas
 -   [Prueba tus expresiones regulares en línea](https://regex101.com/).
 -   [Discursos en la cámara de diputados](https://github.com/emagar/sip/blob/master/lit/magar-legdeb04.pdf).
 
-[Arriba](#org063f6af)
+[Arriba](#org7a3072e)
 
 
 ## Sitio del Congreso chileno
@@ -257,7 +258,7 @@ Lecturas, ideas, temas
 -   [Absolute minimum about unicode and character sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
-<a id="org3891fb7"></a>
+<a id="org7692327"></a>
 
 # Georreferenciación
 
@@ -266,7 +267,7 @@ Lecturas, ideas, temas
 -   Mapa de AMLO 2018
 
 
-<a id="org6c67511"></a>
+<a id="org14397c7"></a>
 
 # Temas próximos
 
