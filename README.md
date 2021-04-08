@@ -1,20 +1,20 @@
 
 # &Iacute;ndice
 
-1.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#orgcc5b8f8)
-2.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org8c3cba0)
-3.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#orgbdac6d6)
-4.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#orgc734a7a)
-5.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#org79b3145)
-6.  [Mujeres en cargos de elección (8 de marzo)](#orgfca4243)
-7.  [Las dinastías electorales  (15 de marzo)](#org8b8fa6f)
-8.  [Excess deaths](#org6bf531f)
-9.  [Borradores de wikipedia](#org0aa9fea)
-10. [Scraping](#orgad0295d)
-11. [Georreferenciación](#org9386d38)
-12. [Temas próximos](#org4e0797b)
+1.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#orgf001999)
+2.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org422ee96)
+3.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#org7729b84)
+4.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#orga755dc3)
+5.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#org0bd69fb)
+6.  [Mujeres en cargos de elección (8 de marzo)](#org7f8ef51)
+7.  [Las dinastías electorales  (15 de marzo)](#org59d9d48)
+8.  [Excess deaths](#org6c2593f)
+9.  [Borradores de wikipedia](#org693c293)
+10. [Scraping](#orgc21d4d3)
+11. [Georreferenciación](#orgcbd70f1)
+12. [Temas próximos](#org393a518)
 
-<a id="orgc2a0f2b"></a>
+<a id="org72a4bb9"></a>
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -47,7 +47,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ---
 
 
-<a id="orgcc5b8f8"></a>
+<a id="orgf001999"></a>
 
 # Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
@@ -56,7 +56,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-<a id="org8c3cba0"></a>
+<a id="org422ee96"></a>
 
 # Ej. 2 (25 de enero): tweets y mercado bursátil
 
@@ -76,10 +76,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
 
-[Arriba](#orgc2a0f2b)
+[Arriba](#org72a4bb9)
 
 
-<a id="orgbdac6d6"></a>
+<a id="org7729b84"></a>
 
 # Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre
 
@@ -90,10 +90,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   [[<https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf>][Estrada+Poire 2007]
 
-[Arriba](#orgc2a0f2b)
+[Arriba](#org72a4bb9)
 
 
-<a id="orgc734a7a"></a>
+<a id="orga755dc3"></a>
 
 # Ej. 4 (3 de febrero): *Reapportionment* 2022
 
@@ -101,10 +101,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Szpiro ch 10 Ivy Leaguers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch10-ivy-leaguers.pdf)
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
-[Arriba](#orgc2a0f2b)
+[Arriba](#org72a4bb9)
 
 
-<a id="org79b3145"></a>
+<a id="org0bd69fb"></a>
 
 # Ej. 5 (1 de marzo): cambio generacional congreso mexicano
 
@@ -115,10 +115,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ![img](./pics/gen-control-senate.png) 
 <https://www.wcd.fyi/features/senate-generations/>
 
-[Arriba](#orgc2a0f2b)
+[Arriba](#org72a4bb9)
 
 
-<a id="orgfca4243"></a>
+<a id="org7f8ef51"></a>
 
 # Mujeres en cargos de elección (8 de marzo)
 
@@ -127,7 +127,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Para después buscar variaciones en espacio y tiempo.
 -   [Tesis Piscopo 2010](https://github.com/emagar/sip/blob/master/lit/piscopo-dissertation-pref-ch2-ch3-2010.pdf)
 
-[Arriba](#orgc2a0f2b)
+[Arriba](#org72a4bb9)
 
 
 ## Minorías, gerontocracias
@@ -136,7 +136,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   McClean, [Silver democracy](https://www.charlesmcclean.com/book-project).
 
 
-<a id="org8b8fa6f"></a>
+<a id="org59d9d48"></a>
 
 # Las dinastías electorales  (15 de marzo)
 
@@ -150,10 +150,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Falta: caso UK en The Son also Rises.
 -   Otro pendiente: Patronimios y matronimios en el poder judicial, Julio Ríos
 
-[Arriba](#orgc2a0f2b)
+[Arriba](#org72a4bb9)
 
 
-<a id="org6bf531f"></a>
+<a id="org6c2593f"></a>
 
 # Excess deaths
 
@@ -166,55 +166,55 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Datos del *Financial Times*](https://github.com/emagar/coronavirus-excess-mortality-data).
 -   [Animación de Baptiste Coulmont](https://twitter.com/i/status/1360545213144592385)
 
-[Arriba](#orgc2a0f2b)
+[Arriba](#org72a4bb9)
 
 
-<a id="org0aa9fea"></a>
+<a id="org693c293"></a>
 
 # Borradores de wikipedia
 
 Ojo: cuando den retroalimentación, debería ayudar que adopten la perspectiva de quien consulta wikipedia y preguntarse si el texto les contesta lo que quisieran saber sobre el tema en cuentión. ¿Hay pendientes? ¿Puede aclararse el texto? Elaboren cómo mejorar el artículo en la sección de Discusión.
 
-1.  Bárbara [CBT](https://es.wikipedia.org/wiki/Terapias_cognitivo-conductuales#Críticas)
+-   Ana [Aborto en México](https://es.wikipedia.org/wiki/Aborto_en_México) 
+    -   Retroalimentas a
+-   Bárbara [CBT](https://es.wikipedia.org/wiki/Terapias_cognitivo-conductuales#Críticas)
     -   Hice corrección de estilo en el wiki.
     -   Falta quitar muchos anglicismos. Por la extensión del texto, quizás convenga que pulas sólo una parte y dejes un comentario en 'discusión' para que otros te ayuden con el resto.
     -   Retroalimentas a **Miguel**
-2.  Carolina y Jorge [Desigualdad](https://es.wikipedia.org/wiki/Desigualdades_en_México)
+-   Carolina y Jorge [Desigualdad](https://es.wikipedia.org/wiki/Desigualdades_en_México)
     -   Carolina retroalimentas a Mashe
     -   Jorge retroalimentas a **Marina**
-3.  Juan Pablo [Dinastías Veracruz](https://es.wikipedia.org/wiki/Dinastías_de_Veracruz_(México)) y [dinastías políticas](https://es.wikipedia.org/wiki/Dinastía) 
+-   Juan Pablo [Dinastías Veracruz](https://es.wikipedia.org/wiki/Dinastías_de_Veracruz_(México)) y [dinastías políticas](https://es.wikipedia.org/wiki/Dinastía) 
     -   Alternativa a 'candidato heredado' es 'hereditario', ¿cuál traduce mejor *legacy candidate*?
     -   Sugiero convertir el texto de 'Dinastías Veracruz' (que el editor borró, increíble) en una sección nueva al final de 'Dinastías políticas'.
     -   Retroalimentas a **Ana Patricia**
-4.  Manuel Ch. [Ley de cuotas](https://es.wikipedia.org/wiki/Ley_de_cuotas) 
+-   Manuel Ch. [Ley de cuotas](https://es.wikipedia.org/wiki/Ley_de_cuotas) 
     -   Retro Eric: dejé observaciones en la 'discusión'.
     -   Retroalimentas a **Carolina y Jorge**
-5.  Manuel M. [JCyA](https://en.wikipedia.org/wiki/Draft:Juntas_de_Conciliación_y_Arbitraje)
+-   Manuel M. [JCyA](https://en.wikipedia.org/wiki/Draft:Juntas_de_Conciliación_y_Arbitraje)
     -   Hice corrección de estilo en el wiki.
     -   Tendré que ver de nuevo cuando haya progresado el borrador, que estaba en ciernes.
     -   Retroalimentas a **Vidal**
-6.  Mashe [Deserción escolar](https://es.wikipedia.org/wiki/Deserción_escolar)
+-   Mashe [Deserción escolar](https://es.wikipedia.org/wiki/Deserción_escolar)
     -   Dejé comentarios en 'Discusión', corregí estilo.
     -   Retroalimentas a **Carolina y Jorge**
-7.  Marina [Guerra terror](https://es.wikipedia.org/wiki/Guerra_contra_el_terrorismo) 
+-   Marina [Guerra terror](https://es.wikipedia.org/wiki/Guerra_contra_el_terrorismo) 
     -   Dejé correcciones de estilo en el wiki.
     -   Retroalimentas a **Bárbara**
-8.  Miguel [Impeachment](https://es.wikipedia.org/wiki/Proceso_de_destitución#Honduras)
+-   Miguel [Impeachment](https://es.wikipedia.org/wiki/Proceso_de_destitución#Honduras)
     -   Hice corrección de estilo en el wiki.
     -   Retroalimentas a **Santiago**
-9.  Mirna [Exceso de mortalidad](https://es.wikipedia.org/wiki/Exceso_de_mortalidad)
+-   Mirna [Exceso de mortalidad](https://es.wikipedia.org/wiki/Exceso_de_mortalidad)
     -   He dejado anotaciones en 'discusión'.
     -   Retroalimentas a **Juan Pablo**
-10. Santiago [Area metro GDL](https://en.wikipedia.org/wiki/Guadalajara_Metropolitan_Area) 
+-   Santiago [Area metro GDL](https://en.wikipedia.org/wiki/Guadalajara_Metropolitan_Area) 
     -   Me parece que el editor quitó tu foto porque no la subiste a wikimedia commons.
     -   Hay otra página con mismo nombre sin mayúsculas. Es el origen de que desaparezca tu texto. Creo. 🔵 Sugiero re-bautizar tu nota 'Greater Guadalajara' y empezaría algo así: Greater Guadalajara, known in Mexico as the Guadalajara Metropolitan Area (GMA), is the geographic area&#x2026; 🔵
     -   Supongo que puedes ponerle etiquetas a tu nota. Pon 'Area Metropolitana' y 'Guadalajara'.
     -   Retroalimentas a **Manuel M.**
-11. Vidal [Agricultura michoacana](https://en.wikipedia.org/wiki/Draft:Michoacán_agriculture) 
+-   Vidal [Agricultura michoacana](https://en.wikipedia.org/wiki/Draft:Michoacán_agriculture) 
     -   Corregí estilo y dejé comentario en talk
     -   Retroalimentas a **Mirna**
-12. Ana [Aborto en México](https://es.wikipedia.org/wiki/Aborto_en_México) 
-    -   Retroalimentas a
 
 
 ## No han entregado (al 6 de abril)
@@ -231,10 +231,10 @@ Ojo: cuando den retroalimentación, debería ayudar que adopten la perspectiva d
     -   Retroalimentas a
 -   Pamela [Servicio salud penitenciario](https://es.wikipedia.org/wiki/Usuario_discusión:Pamelaquirarte#Servicios_de_Salud_en_Centros_Penitenciarios_Mexicanos) &#x2014; pendiente
 
-[Arriba](#orgc2a0f2b)
+[Arriba](#org72a4bb9)
 
 
-<a id="orgad0295d"></a>
+<a id="orgc21d4d3"></a>
 
 # Scraping
 
@@ -261,7 +261,7 @@ Ojo: cuando den retroalimentación, debería ayudar que adopten la perspectiva d
 -   [Prueba tus expresiones regulares en línea](https://regex101.com/).
 -   [Discursos en la cámara de diputados](https://github.com/emagar/sip/blob/master/lit/magar-legdeb04.pdf).
 
-[Arriba](#orgc2a0f2b)
+[Arriba](#org72a4bb9)
 
 
 ## Sitio del Congreso chileno
@@ -276,7 +276,7 @@ Ojo: cuando den retroalimentación, debería ayudar que adopten la perspectiva d
 -   [Absolute minimum about unicode and character sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
-<a id="org9386d38"></a>
+<a id="orgcbd70f1"></a>
 
 # Georreferenciación
 
@@ -285,7 +285,7 @@ Ojo: cuando den retroalimentación, debería ayudar que adopten la perspectiva d
 -   Mapa de AMLO 2018
 
 
-<a id="org4e0797b"></a>
+<a id="org393a518"></a>
 
 # Temas próximos
 
