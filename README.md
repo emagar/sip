@@ -1,20 +1,20 @@
 
 # &Iacute;ndice
 
-1.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#org4691f07)
-2.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#orgaca73ab)
-3.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#org1efd70e)
-4.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#org98847d4)
-5.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#org35e154c)
-6.  [Mujeres en cargos de elección (8 de marzo)](#org5418c22)
-7.  [Las dinastías electorales  (15 de marzo)](#org31a446f)
-8.  [Excess deaths](#orgbbc1caa)
-9.  [Borradores de wikipedia](#org1d10c33)
-10. [Scraping](#org0c63b87)
-11. [Georreferenciación](#org9870200)
-12. [Temas próximos](#org031b869)
+1.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#org1cc7ac4)
+2.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#orgc0fa030)
+3.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#orgaa798ae)
+4.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#org19bf73f)
+5.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#org8b1e732)
+6.  [Mujeres en cargos de elección (8 de marzo)](#org4bef529)
+7.  [Las dinastías electorales  (15 de marzo)](#orge2aa889)
+8.  [Excess deaths](#org2da3567)
+9.  [Borradores de wikipedia](#orgc0e24c4)
+10. [Scraping](#orgc073dab)
+11. [Georreferenciación](#org7cebcf8)
+12. [Temas próximos](#org8221942)
 
-<a id="orge6ff4b2"></a>
+<a id="org301c5a4"></a>
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -47,7 +47,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ---
 
 
-<a id="org4691f07"></a>
+<a id="org1cc7ac4"></a>
 
 # Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
@@ -56,7 +56,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-<a id="orgaca73ab"></a>
+<a id="orgc0fa030"></a>
 
 # Ej. 2 (25 de enero): tweets y mercado bursátil
 
@@ -76,10 +76,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
 
-[Arriba](#orge6ff4b2)
+[Arriba](#org301c5a4)
 
 
-<a id="org1efd70e"></a>
+<a id="orgaa798ae"></a>
 
 # Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre
 
@@ -90,10 +90,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   [[<https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf>][Estrada+Poire 2007]
 
-[Arriba](#orge6ff4b2)
+[Arriba](#org301c5a4)
 
 
-<a id="org98847d4"></a>
+<a id="org19bf73f"></a>
 
 # Ej. 4 (3 de febrero): *Reapportionment* 2022
 
@@ -101,10 +101,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Szpiro ch 10 Ivy Leaguers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch10-ivy-leaguers.pdf)
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
-[Arriba](#orge6ff4b2)
+[Arriba](#org301c5a4)
 
 
-<a id="org35e154c"></a>
+<a id="org8b1e732"></a>
 
 # Ej. 5 (1 de marzo): cambio generacional congreso mexicano
 
@@ -115,10 +115,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ![img](./pics/gen-control-senate.png) 
 <https://www.wcd.fyi/features/senate-generations/>
 
-[Arriba](#orge6ff4b2)
+[Arriba](#org301c5a4)
 
 
-<a id="org5418c22"></a>
+<a id="org4bef529"></a>
 
 # Mujeres en cargos de elección (8 de marzo)
 
@@ -127,7 +127,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Para después buscar variaciones en espacio y tiempo.
 -   [Tesis Piscopo 2010](https://github.com/emagar/sip/blob/master/lit/piscopo-dissertation-pref-ch2-ch3-2010.pdf)
 
-[Arriba](#orge6ff4b2)
+[Arriba](#org301c5a4)
 
 
 ## Minorías, gerontocracias
@@ -136,7 +136,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   McClean, [Silver democracy](https://www.charlesmcclean.com/book-project).
 
 
-<a id="org31a446f"></a>
+<a id="orge2aa889"></a>
 
 # Las dinastías electorales  (15 de marzo)
 
@@ -150,10 +150,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Falta: caso UK en The Son also Rises.
 -   Otro pendiente: Patronimios y matronimios en el poder judicial, Julio Ríos
 
-[Arriba](#orge6ff4b2)
+[Arriba](#org301c5a4)
 
 
-<a id="orgbbc1caa"></a>
+<a id="org2da3567"></a>
 
 # Excess deaths
 
@@ -166,44 +166,44 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Datos del *Financial Times*](https://github.com/emagar/coronavirus-excess-mortality-data).
 -   [Animación de Baptiste Coulmont](https://twitter.com/i/status/1360545213144592385)
 
-[Arriba](#orge6ff4b2)
+[Arriba](#org301c5a4)
 
 
-<a id="org1d10c33"></a>
+<a id="orgc0e24c4"></a>
 
 # Borradores de wikipedia
 
-Ojo: cuando den retroalimentación, debería ayudar adoptar la perspectiva de quien consulta wikipedia y preguntarse si el texto les contesta lo fundamental sobre el tema en cuentión. ¿Hay pendientes? ¿Puede aclararse el texto? Elaboren cómo mejorar el artículo en la sección de Discusión.
+Ojo: cuando den retroalimentación, debería ayudar que adopten la perspectiva de quien consulta wikipedia y preguntarse si el texto les contesta lo que quisieran saber sobre el tema en cuentión. ¿Hay pendientes? ¿Puede aclararse el texto? Elaboren cómo mejorar el artículo en la sección de Discusión.
 
 1.  Bárbara [CBT](https://es.wikipedia.org/wiki/Terapias_cognitivo-conductuales#Críticas)
-    -   Retro eric: Hice corrección de estilo en el wiki.
+    -   Hice corrección de estilo en el wiki.
     -   Falta quitar muchos anglicismos. Por la extensión del texto, quizás convenga que pulas sólo una parte y dejes un comentario en 'discusión' para que otros te ayuden con el resto.
     -   Retroalimentas a **Miguel**
 2.  Carolina y Jorge [Desigualdad](https://es.wikipedia.org/wiki/Desigualdades_en_México)
     -   Carolina retroalimentas a Mashe
     -   Jorge retroalimentas a **Marina**
 3.  Juan Pablo [Dinastías Veracruz](https://es.wikipedia.org/wiki/Dinastías_de_Veracruz_(México)) y [dinastías políticas](https://es.wikipedia.org/wiki/Dinastía) 
-    -   Retro eric: alternativa a 'candidato heredado' es 'hereditario', ¿cuál traduce mejor *legacy candidate*?
+    -   Alternativa a 'candidato heredado' es 'hereditario', ¿cuál traduce mejor *legacy candidate*?
     -   Sugiero convertir el texto de 'Dinastías Veracruz' (que el editor borró, increíble) en una sección nueva al final de 'Dinastías políticas'.
     -   Retroalimentas a **Ana Patricia**
 4.  Manuel Ch. [Ley de cuotas](https://es.wikipedia.org/wiki/Ley_de_cuotas) 
     -   Retro Eric: dejé observaciones en la 'discusión'.
     -   Retroalimentas a **Carolina y Jorge**
 5.  Manuel M. [JCyA](https://en.wikipedia.org/wiki/Draft:Juntas_de_Conciliación_y_Arbitraje)
-    -   Retro eric: Hice corrección de estilo en el wiki.
+    -   Hice corrección de estilo en el wiki.
     -   Tendré que ver de nuevo cuando haya progresado el borrador, que estaba en ciernes.
     -   Retroalimentas a **Vidal**
 6.  Mashe [Deserción escolar](https://es.wikipedia.org/wiki/Deserción_escolar)
-    -   Retro eric: Dejé comentarios en 'Discusión', corregí estilo.
+    -   Dejé comentarios en 'Discusión', corregí estilo.
     -   Retroalimentas a **Carolina y Jorge**
 7.  Marina [Guerra terror](https://es.wikipedia.org/wiki/Guerra_contra_el_terrorismo) 
-    -   Retro eric: dejé correcciones de estilo en el wiki.
+    -   Dejé correcciones de estilo en el wiki.
     -   Retroalimentas a **Bárbara**
 8.  Miguel [Impeachment](https://es.wikipedia.org/wiki/Proceso_de_destitución#Honduras)
-    -   Retro eric: Hice corrección de estilo en el wiki.
+    -   Hice corrección de estilo en el wiki.
     -   Retroalimentas a **Santiago**
 9.  Mirna [Exceso de mortalidad](https://es.wikipedia.org/wiki/Exceso_de_mortalidad)
-    -   Retro eric: he dejado anotaciones en 'discusión'.
+    -   He dejado anotaciones en 'discusión'.
     -   Retroalimentas a **Juan Pablo**
 10. Pamela [Servicio salud penitenciario](https://es.wikipedia.org/wiki/Usuario_discusión:Pamelaquirarte#Servicios_de_Salud_en_Centros_Penitenciarios_Mexicanos) &#x2014; pendiente
 11. Santiago [Area metro GDL](https://en.wikipedia.org/wiki/Guadalajara_Metropolitan_Area) y [otro](https://en.wikipedia.org/wiki/Guadalajara_Metropolitan_Area)
@@ -213,29 +213,29 @@ Ojo: cuando den retroalimentación, debería ayudar adoptar la perspectiva de qu
     
     -   Retroalimentas a **Manuel M.**
 12. Vidal [Agricultura michoacana](https://en.wikipedia.org/wiki/Draft:Michoacán_agriculture) 
-    -   Retro eric: corregí estilo y dejé comentario en talk
+    -   Corregí estilo y dejé comentario en talk
     -   Retroalimentas a **Mirna**
+13. Ana [Aborto en México](https://es.wikipedia.org/wiki/Aborto_en_México) 
+    -   Retroalimentas a
 
 
 ## No han entregado (al 6 de abril)
 
 1.  Ana Patricia
+    -   Retroalimentas a **Ana**
+2.  Daniela A.
     -   Retroalimentas a
-2.  Ana
+3.  Daniela P.
     -   Retroalimentas a
-3.  Daniela A.
-    -   Retroalimentas a
-4.  Daniela P.
+4.  Gabriela
     -   Retroalimentas a
 5.  Fermín
     -   Retroalimentas a
-6.  Gabriela
-    -   Retroalimentas a
 
-[Arriba](#orge6ff4b2)
+[Arriba](#org301c5a4)
 
 
-<a id="org0c63b87"></a>
+<a id="orgc073dab"></a>
 
 # Scraping
 
@@ -262,7 +262,7 @@ Ojo: cuando den retroalimentación, debería ayudar adoptar la perspectiva de qu
 -   [Prueba tus expresiones regulares en línea](https://regex101.com/).
 -   [Discursos en la cámara de diputados](https://github.com/emagar/sip/blob/master/lit/magar-legdeb04.pdf).
 
-[Arriba](#orge6ff4b2)
+[Arriba](#org301c5a4)
 
 
 ## Sitio del Congreso chileno
@@ -277,7 +277,7 @@ Ojo: cuando den retroalimentación, debería ayudar adoptar la perspectiva de qu
 -   [Absolute minimum about unicode and character sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
-<a id="org9870200"></a>
+<a id="org7cebcf8"></a>
 
 # Georreferenciación
 
@@ -286,7 +286,7 @@ Ojo: cuando den retroalimentación, debería ayudar adoptar la perspectiva de qu
 -   Mapa de AMLO 2018
 
 
-<a id="org031b869"></a>
+<a id="org8221942"></a>
 
 # Temas próximos
 
