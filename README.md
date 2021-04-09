@@ -1,20 +1,20 @@
 
 # &Iacute;ndice
 
-1.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#org7268c56)
-2.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org7de7916)
-3.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#orgb099c55)
-4.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#orgce167d8)
-5.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#org5c3c03b)
-6.  [Mujeres en cargos de elección (8 de marzo)](#orgfbae05f)
-7.  [Las dinastías electorales  (15 de marzo)](#org6bb398e)
-8.  [Excess deaths](#org4295579)
-9.  [Borradores de wikipedia](#org816885b)
-10. [Scraping](#org3910f6b)
-11. [Georreferenciación](#orgb3244fb)
-12. [Temas próximos](#org0977a79)
+1.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#orgcabca36)
+2.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#orgd864f7a)
+3.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#org67351db)
+4.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#orgd31226d)
+5.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#org757a248)
+6.  [Mujeres en cargos de elección (8 de marzo)](#org47d0a3f)
+7.  [Las dinastías electorales  (15 de marzo)](#org109b958)
+8.  [Excess deaths](#orgaf48ef9)
+9.  [Borradores de wikipedia](#orgf8a19c0)
+10. [Scraping](#orgd597828)
+11. [Georreferenciación](#org10c401d)
+12. [Temas próximos](#org1d4fdc3)
 
-<a id="orgacda39b"></a>
+<a id="org8e90007"></a>
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -47,7 +47,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ---
 
 
-<a id="org7268c56"></a>
+<a id="orgcabca36"></a>
 
 # Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
@@ -56,7 +56,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-<a id="org7de7916"></a>
+<a id="orgd864f7a"></a>
 
 # Ej. 2 (25 de enero): tweets y mercado bursátil
 
@@ -76,10 +76,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
 
-[Arriba](#orgacda39b)
+[Arriba](#org8e90007)
 
 
-<a id="orgb099c55"></a>
+<a id="org67351db"></a>
 
 # Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre
 
@@ -90,10 +90,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   [[<https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf>][Estrada+Poire 2007]
 
-[Arriba](#orgacda39b)
+[Arriba](#org8e90007)
 
 
-<a id="orgce167d8"></a>
+<a id="orgd31226d"></a>
 
 # Ej. 4 (3 de febrero): *Reapportionment* 2022
 
@@ -101,10 +101,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Szpiro ch 10 Ivy Leaguers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch10-ivy-leaguers.pdf)
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
-[Arriba](#orgacda39b)
+[Arriba](#org8e90007)
 
 
-<a id="org5c3c03b"></a>
+<a id="org757a248"></a>
 
 # Ej. 5 (1 de marzo): cambio generacional congreso mexicano
 
@@ -115,10 +115,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ![img](./pics/gen-control-senate.png) 
 <https://www.wcd.fyi/features/senate-generations/>
 
-[Arriba](#orgacda39b)
+[Arriba](#org8e90007)
 
 
-<a id="orgfbae05f"></a>
+<a id="org47d0a3f"></a>
 
 # Mujeres en cargos de elección (8 de marzo)
 
@@ -127,7 +127,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Para después buscar variaciones en espacio y tiempo.
 -   [Tesis Piscopo 2010](https://github.com/emagar/sip/blob/master/lit/piscopo-dissertation-pref-ch2-ch3-2010.pdf)
 
-[Arriba](#orgacda39b)
+[Arriba](#org8e90007)
 
 
 ## Minorías, gerontocracias
@@ -136,7 +136,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   McClean, [Silver democracy](https://www.charlesmcclean.com/book-project).
 
 
-<a id="org6bb398e"></a>
+<a id="org109b958"></a>
 
 # Las dinastías electorales  (15 de marzo)
 
@@ -150,10 +150,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Falta: caso UK en The Son also Rises.
 -   Otro pendiente: Patronimios y matronimios en el poder judicial, Julio Ríos
 
-[Arriba](#orgacda39b)
+[Arriba](#org8e90007)
 
 
-<a id="org4295579"></a>
+<a id="orgaf48ef9"></a>
 
 # Excess deaths
 
@@ -166,10 +166,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Datos del *Financial Times*](https://github.com/emagar/coronavirus-excess-mortality-data).
 -   [Animación de Baptiste Coulmont](https://twitter.com/i/status/1360545213144592385)
 
-[Arriba](#orgacda39b)
+[Arriba](#org8e90007)
 
 
-<a id="org816885b"></a>
+<a id="orgf8a19c0"></a>
 
 # Borradores de wikipedia
 
@@ -209,7 +209,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
     -   Retroalimentas a **Juan Pablo**
 -   Santiago [Area metro GDL](https://en.wikipedia.org/wiki/Guadalajara_Metropolitan_Area) 
     -   Me parece que el editor quitó tu foto porque no la subiste a wikimedia commons.
-    -   Hay otra página con mismo nombre sin mayúsculas. Es el origen de que desaparezca tu texto. Creo. 🔵 Sugiero re-bautizar tu nota 'Greater Guadalajara' y empezaría algo así: Greater Guadalajara, known in Mexico as the Guadalajara Metropolitan Area (GMA), is the geographic area&#x2026; 🔵 Esto lo haces con el botón 'move'.
+    -   Hay otra página con mismo nombre sin mayúsculas. Es el origen de que desaparezca tu texto. Creo. 🔵 Sugiero re-bautizar tu nota 'Greater Guadalajara' y empezaría algo así: Greater Guadalajara, known in Mexico as the Guadalajara Metropolitan Area (GMA), is the geographic area&#x2026; 🔵 Esto lo haces con el botón 'move' (mándame el nuevo enlace cuando lo hagas).
     -   Supongo que puedes ponerle etiquetas a tu nota. Pon 'Area Metropolitana' y 'Guadalajara'.
     -   Retroalimentas a **Manuel M.**
 -   Vidal [Agricultura michoacana](https://en.wikipedia.org/wiki/Draft:Michoacán_agriculture) 
@@ -231,10 +231,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
     -   Retroalimentas a
 -   Pamela [Servicio salud penitenciario](https://es.wikipedia.org/wiki/Usuario_discusión:Pamelaquirarte#Servicios_de_Salud_en_Centros_Penitenciarios_Mexicanos) &#x2014; pendiente
 
-[Arriba](#orgacda39b)
+[Arriba](#org8e90007)
 
 
-<a id="org3910f6b"></a>
+<a id="orgd597828"></a>
 
 # Scraping
 
@@ -261,7 +261,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Prueba tus expresiones regulares en línea](https://regex101.com/).
 -   [Discursos en la cámara de diputados](https://github.com/emagar/sip/blob/master/lit/magar-legdeb04.pdf).
 
-[Arriba](#orgacda39b)
+[Arriba](#org8e90007)
 
 
 ## Sitio del Congreso chileno
@@ -276,7 +276,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Absolute minimum about unicode and character sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
-<a id="orgb3244fb"></a>
+<a id="org10c401d"></a>
 
 # Georreferenciación
 
@@ -285,7 +285,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Mapa de AMLO 2018
 
 
-<a id="org0977a79"></a>
+<a id="org1d4fdc3"></a>
 
 # Temas próximos
 
