@@ -1,20 +1,20 @@
 
 # &Iacute;ndice
 
-1.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#orgeb7d9f8)
-2.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org626eaf7)
-3.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#orgb4efdab)
-4.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#orgf2f95df)
-5.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#org6051613)
-6.  [Mujeres en cargos de elección (8 de marzo)](#org264039e)
-7.  [Las dinastías electorales  (15 de marzo)](#org21aa7ce)
-8.  [Excess deaths](#org9bcfa6d)
-9.  [Borradores de wikipedia](#orgc00b9cf)
-10. [Scraping](#org8efed8b)
-11. [Georreferenciación](#orga3146b2)
-12. [Temas próximos](#orgf7e3e82)
+1.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#orgc1d6e24)
+2.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org01d7500)
+3.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#orgd5fd8dd)
+4.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#org239f8d2)
+5.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#org148cade)
+6.  [Mujeres en cargos de elección (8 de marzo)](#org0682fab)
+7.  [Las dinastías electorales  (15 de marzo)](#org17c532c)
+8.  [Excess deaths](#org61a1aa4)
+9.  [Borradores de wikipedia](#orgce13672)
+10. [Scraping](#org6802df5)
+11. [Georreferenciación](#orgbc3273d)
+12. [Temas próximos](#orgf3a6e65)
 
-<a id="org91cc29e"></a>
+<a id="org42b8371"></a>
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -47,7 +47,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ---
 
 
-<a id="orgeb7d9f8"></a>
+<a id="orgc1d6e24"></a>
 
 # Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
@@ -56,7 +56,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-<a id="org626eaf7"></a>
+<a id="org01d7500"></a>
 
 # Ej. 2 (25 de enero): tweets y mercado bursátil
 
@@ -76,10 +76,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
 
-[Arriba](#org91cc29e)
+[Arriba](#org42b8371)
 
 
-<a id="orgb4efdab"></a>
+<a id="orgd5fd8dd"></a>
 
 # Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre
 
@@ -90,10 +90,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   [[<https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf>][Estrada+Poire 2007]
 
-[Arriba](#org91cc29e)
+[Arriba](#org42b8371)
 
 
-<a id="orgf2f95df"></a>
+<a id="org239f8d2"></a>
 
 # Ej. 4 (3 de febrero): *Reapportionment* 2022
 
@@ -101,10 +101,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Szpiro ch 10 Ivy Leaguers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch10-ivy-leaguers.pdf)
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
-[Arriba](#org91cc29e)
+[Arriba](#org42b8371)
 
 
-<a id="org6051613"></a>
+<a id="org148cade"></a>
 
 # Ej. 5 (1 de marzo): cambio generacional congreso mexicano
 
@@ -115,10 +115,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ![img](./pics/gen-control-senate.png) 
 <https://www.wcd.fyi/features/senate-generations/>
 
-[Arriba](#org91cc29e)
+[Arriba](#org42b8371)
 
 
-<a id="org264039e"></a>
+<a id="org0682fab"></a>
 
 # Mujeres en cargos de elección (8 de marzo)
 
@@ -127,7 +127,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Para después buscar variaciones en espacio y tiempo.
 -   [Tesis Piscopo 2010](https://github.com/emagar/sip/blob/master/lit/piscopo-dissertation-pref-ch2-ch3-2010.pdf)
 
-[Arriba](#org91cc29e)
+[Arriba](#org42b8371)
 
 
 ## Minorías, gerontocracias
@@ -136,7 +136,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   McClean, [Silver democracy](https://www.charlesmcclean.com/book-project).
 
 
-<a id="org21aa7ce"></a>
+<a id="org17c532c"></a>
 
 # Las dinastías electorales  (15 de marzo)
 
@@ -150,10 +150,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Falta: caso UK en The Son also Rises.
 -   Otro pendiente: Patronimios y matronimios en el poder judicial, Julio Ríos
 
-[Arriba](#org91cc29e)
+[Arriba](#org42b8371)
 
 
-<a id="org9bcfa6d"></a>
+<a id="org61a1aa4"></a>
 
 # Excess deaths
 
@@ -166,10 +166,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Datos del *Financial Times*](https://github.com/emagar/coronavirus-excess-mortality-data).
 -   [Animación de Baptiste Coulmont](https://twitter.com/i/status/1360545213144592385)
 
-[Arriba](#org91cc29e)
+[Arriba](#org42b8371)
 
 
-<a id="orgc00b9cf"></a>
+<a id="orgce13672"></a>
 
 # Borradores de wikipedia
 
@@ -235,10 +235,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
     -   Retroalimentas a
 -   Pamela [Servicio salud penitenciario](https://es.wikipedia.org/wiki/Usuario_discusión:Pamelaquirarte#Servicios_de_Salud_en_Centros_Penitenciarios_Mexicanos) &#x2014; pendiente
 
-[Arriba](#org91cc29e)
+[Arriba](#org42b8371)
 
 
-<a id="org8efed8b"></a>
+<a id="org6802df5"></a>
 
 # Scraping
 
@@ -265,7 +265,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Prueba tus expresiones regulares en línea](https://regex101.com/).
 -   [Discursos en la cámara de diputados](https://github.com/emagar/sip/blob/master/lit/magar-legdeb04.pdf).
 
-[Arriba](#org91cc29e)
+[Arriba](#org42b8371)
 
 
 ## Sitio del Congreso chileno
@@ -280,16 +280,18 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Absolute minimum about unicode and character sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
-<a id="orga3146b2"></a>
+<a id="orgbc3273d"></a>
 
 # Georreferenciación
 
--   Dibujar los municipios indígenas de Chiapas
+![img](./pics/cps-lengMax.png)
+
+-   Dibujar los municipios indígenas de Chiapas \(\rightarrow\) [código](https://github.com/emagar/sip/blob/master/code/mapaDisCps.r) (está en chino usarlo porque los datos están en otros lados, pero permite ver cómo se procede)
 -   Mapa de alfas
 -   Mapa de AMLO 2018
 
 
-<a id="orgf7e3e82"></a>
+<a id="orgf3a6e65"></a>
 
 # Temas próximos
 
