@@ -1,20 +1,21 @@
 
 # &Iacute;ndice
 
-1.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#orgf40f90b)
-2.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org29c9b15)
-3.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#orga30b898)
-4.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#orgda39d74)
-5.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#orgc880351)
-6.  [Mujeres en cargos de elección (8 de marzo)](#org28f9cc6)
-7.  [Las dinastías electorales  (15 de marzo)](#orgd3bf972)
-8.  [Excess deaths](#orge3f192e)
-9.  [Borradores de wikipedia](#org84e8989)
-10. [Scraping](#orgd087a4d)
-11. [Georreferenciación](#orgd0ebde6)
-12. [Temas próximos](#org2de133d)
+1.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#org88c9661)
+2.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#orgc8732ee)
+3.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#org2001ae8)
+4.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#orgeb2c130)
+5.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#orga727fe3)
+6.  [Mujeres en cargos de elección (8 de marzo)](#org4fa2207)
+7.  [Las dinastías electorales  (15 de marzo)](#org7366ee0)
+8.  [Excess deaths](#org6f68001)
+9.  [Borradores de wikipedia](#orgcf3cfcb)
+10. [Scraping](#org39ad7fd)
+11. [Georreferenciación](#org5aea10e)
+12. [Iluminación satelital](#orga196e38)
+13. [Temas próximos](#org9e26592)
 
-<a id="org5a484be"></a>
+<a id="org802c2d0"></a>
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -47,7 +48,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ---
 
 
-<a id="orgf40f90b"></a>
+<a id="org88c9661"></a>
 
 # Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
@@ -56,7 +57,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-<a id="org29c9b15"></a>
+<a id="orgc8732ee"></a>
 
 # Ej. 2 (25 de enero): tweets y mercado bursátil
 
@@ -77,10 +78,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
 
-[Arriba](#org5a484be)
+[Arriba](#org802c2d0)
 
 
-<a id="orga30b898"></a>
+<a id="org2001ae8"></a>
 
 # Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre
 
@@ -91,10 +92,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   [[<https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf>][Estrada+Poire 2007]
 
-[Arriba](#org5a484be)
+[Arriba](#org802c2d0)
 
 
-<a id="orgda39d74"></a>
+<a id="orgeb2c130"></a>
 
 # Ej. 4 (3 de febrero): *Reapportionment* 2022
 
@@ -102,10 +103,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Szpiro ch 10 Ivy Leaguers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch10-ivy-leaguers.pdf)
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
-[Arriba](#org5a484be)
+[Arriba](#org802c2d0)
 
 
-<a id="orgc880351"></a>
+<a id="orga727fe3"></a>
 
 # Ej. 5 (1 de marzo): cambio generacional congreso mexicano
 
@@ -116,10 +117,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ![img](./pics/gen-control-senate.png) 
 <https://www.wcd.fyi/features/senate-generations/>
 
-[Arriba](#org5a484be)
+[Arriba](#org802c2d0)
 
 
-<a id="org28f9cc6"></a>
+<a id="org4fa2207"></a>
 
 # Mujeres en cargos de elección (8 de marzo)
 
@@ -128,7 +129,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Para después buscar variaciones en espacio y tiempo.
 -   [Tesis Piscopo 2010](https://github.com/emagar/sip/blob/master/lit/piscopo-dissertation-pref-ch2-ch3-2010.pdf)
 
-[Arriba](#org5a484be)
+[Arriba](#org802c2d0)
 
 
 ## Minorías, gerontocracias
@@ -137,7 +138,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   McClean, [Silver democracy](https://www.charlesmcclean.com/book-project).
 
 
-<a id="orgd3bf972"></a>
+<a id="org7366ee0"></a>
 
 # Las dinastías electorales  (15 de marzo)
 
@@ -151,10 +152,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Falta: caso UK en The Son also Rises.
 -   Otro pendiente: Patronimios y matronimios en el poder judicial, Julio Ríos
 
-[Arriba](#org5a484be)
+[Arriba](#org802c2d0)
 
 
-<a id="orge3f192e"></a>
+<a id="org6f68001"></a>
 
 # Excess deaths
 
@@ -167,10 +168,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Datos del *Financial Times*](https://github.com/emagar/coronavirus-excess-mortality-data).
 -   [Animación de Baptiste Coulmont](https://twitter.com/i/status/1360545213144592385)
 
-[Arriba](#org5a484be)
+[Arriba](#org802c2d0)
 
 
-<a id="org84e8989"></a>
+<a id="orgcf3cfcb"></a>
 
 # Borradores de wikipedia
 
@@ -237,10 +238,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
     -   Retroalimentas a
 -   Pamela [Servicio salud penitenciario](https://es.wikipedia.org/wiki/Usuario_discusión:Pamelaquirarte#Servicios_de_Salud_en_Centros_Penitenciarios_Mexicanos) &#x2014; pendiente
 
-[Arriba](#org5a484be)
+[Arriba](#org802c2d0)
 
 
-<a id="orgd087a4d"></a>
+<a id="org39ad7fd"></a>
 
 # Scraping
 
@@ -267,7 +268,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Prueba tus expresiones regulares en línea](https://regex101.com/).
 -   [Discursos en la cámara de diputados](https://github.com/emagar/sip/blob/master/lit/magar-legdeb04.pdf).
 
-[Arriba](#org5a484be)
+[Arriba](#org802c2d0)
 
 
 ## Sitio del Congreso chileno
@@ -282,7 +283,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Absolute minimum about unicode and character sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
-<a id="orgd0ebde6"></a>
+<a id="org5aea10e"></a>
 
 # Georreferenciación
 
@@ -293,7 +294,12 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Mapa de AMLO 2018
 
 
-<a id="org2de133d"></a>
+<a id="orga196e38"></a>
+
+# Iluminación satelital
+
+
+<a id="org9e26592"></a>
 
 # Temas próximos
 
