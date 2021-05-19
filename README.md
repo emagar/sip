@@ -1,22 +1,23 @@
 
 # &Iacute;ndice
 
-1.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#org13b6bcd)
-2.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org2a843f8)
-3.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#orgd8bc12e)
-4.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#org15f8f67)
-5.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#orgbf3f212)
-6.  [Mujeres en cargos de elección (8 de marzo)](#org2f11c7c)
-7.  [Las dinastías electorales  (15 de marzo)](#orgf433c36)
-8.  [Excess deaths](#org0651d90)
-9.  [Borradores de wikipedia](#org6b2b392)
-10. [Scraping](#orgfd30780)
-11. [Georreferenciación](#org1e24792)
-12. [Luminosidad satelital](#orgb95e721)
-13. [El calendario electoral](#org7d392e6)
-14. [Temas próximos](#org68e7ca3)
+1.  [Reglas para la conclusión del seminario](#orge88ab77)
+2.  [Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)](#orgaf35a0c)
+3.  [Ej. 2 (25 de enero): tweets y mercado bursátil](#org60c01d6)
+4.  [Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre](#org08147c7)
+5.  [Ej. 4 (3 de febrero): *Reapportionment* 2022](#org641576f)
+6.  [Ej. 5 (1 de marzo): cambio generacional congreso mexicano](#orgde65139)
+7.  [Mujeres en cargos de elección (8 de marzo)](#org57cc66e)
+8.  [Las dinastías electorales  (15 de marzo)](#orgd4833d2)
+9.  [Excess deaths](#org5d0c517)
+10. [Borradores de wikipedia](#org57b554f)
+11. [Scraping](#org303f454)
+12. [Georreferenciación](#org9c35788)
+13. [Luminosidad satelital](#org7e609cd)
+14. [El calendario electoral](#org6cf650b)
+15. [Temas próximos](#org8bddb42)
 
-<a id="orgd5739b5"></a>
+<a id="orgdd1afcd"></a>
 
 ITAM Depto. de ciencia política, primavera 2021
 
@@ -49,7 +50,28 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ---
 
 
-<a id="org13b6bcd"></a>
+<a id="orge88ab77"></a>
+
+# Reglas para la conclusión del seminario
+
+Los requisitos para aprobar el seminario son tres: 
+
+1.  publicar un artículo de wikipedia,
+
+2.  hacerle comentarios a por lo menos un artículo de wikipedia de otra persona en el seminario y
+
+3.  terminar la versión preliminar de un artículo de investigación.
+
+Les ofrezco tres planes para concluir el seminario. El plan A consiste en terminar los requisitos del curso antes del 1 de junio 2021. A quienes opten por el plan 1 les pondré calificación en la primera semana de junio. A quienes opten por los planes B y C les pondré un 6 para que no tengan calificaciones pendientes. Cambiaré la calificación por la final cuando cumplan los requisitos. 
+
+El plan B consiste en dedicar el verano para concluir los requisitos del seminario, y entregarlos antes del 16 de agosto 2021. 
+
+El plan C es el más indefinido. Consiste en tocar base conmigo para proponerme un plan de conclusión del seminario que yo acepte. 
+
+Les deseo mucha suerte en sus exámenes finales, avísenme cuál de los 3 planes les viene mejor. Hasta pronto, espero. 
+
+
+<a id="orgaf35a0c"></a>
 
 # Ej. 1 (18 y 20 de enero): historial de sueño (Spotify tarda en dar tu historial)
 
@@ -58,7 +80,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   El código en R que usaré en clase aparece en este [enlace](https://github.com/emagar/sip/blob/master/code/sleep.r).
 
 
-<a id="org2a843f8"></a>
+<a id="org60c01d6"></a>
 
 # Ej. 2 (25 de enero): tweets y mercado bursátil
 
@@ -79,10 +101,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   Hay código `Python` para automatizar la búsqueda de valores en NYSE [aquí](https://github.com/emagar/sip/blob/master/code/get-days-quotes.py).
 
-[Arriba](#orgd5739b5)
+[Arriba](#orgdd1afcd)
 
 
-<a id="orgd8bc12e"></a>
+<a id="org08147c7"></a>
 
 # Ej. 3 (27 de enero): (des)confianza en el conteo de noviembre
 
@@ -93,10 +115,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 
 -   [[<https://github.com/emagar/sip/blob/master/lit/estrada-poire-taught-to-protest-2007jod.pdf>][Estrada+Poire 2007]
 
-[Arriba](#orgd5739b5)
+[Arriba](#orgdd1afcd)
 
 
-<a id="org15f8f67"></a>
+<a id="org641576f"></a>
 
 # Ej. 4 (3 de febrero): *Reapportionment* 2022
 
@@ -104,10 +126,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Szpiro ch 10 Ivy Leaguers](https://github.com/emagar/ep3/blob/master/lecturas/szpiro2010-Numbers-rule-ch10-ivy-leaguers.pdf)
 -   [Población por estado](./data/ptot-edo-2010-2020.csv)
 
-[Arriba](#orgd5739b5)
+[Arriba](#orgdd1afcd)
 
 
-<a id="orgbf3f212"></a>
+<a id="orgde65139"></a>
 
 # Ej. 5 (1 de marzo): cambio generacional congreso mexicano
 
@@ -118,10 +140,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 ![img](./pics/gen-control-senate.png) 
 <https://www.wcd.fyi/features/senate-generations/>
 
-[Arriba](#orgd5739b5)
+[Arriba](#orgdd1afcd)
 
 
-<a id="org2f11c7c"></a>
+<a id="org57cc66e"></a>
 
 # Mujeres en cargos de elección (8 de marzo)
 
@@ -130,7 +152,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Para después buscar variaciones en espacio y tiempo.
 -   [Tesis Piscopo 2010](https://github.com/emagar/sip/blob/master/lit/piscopo-dissertation-pref-ch2-ch3-2010.pdf)
 
-[Arriba](#orgd5739b5)
+[Arriba](#orgdd1afcd)
 
 
 ## Minorías, gerontocracias
@@ -139,7 +161,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   McClean, [Silver democracy](https://www.charlesmcclean.com/book-project).
 
 
-<a id="orgf433c36"></a>
+<a id="orgd4833d2"></a>
 
 # Las dinastías electorales  (15 de marzo)
 
@@ -153,10 +175,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Falta: caso UK en The Son also Rises.
 -   Otro pendiente: Patronimios y matronimios en el poder judicial, Julio Ríos
 
-[Arriba](#orgd5739b5)
+[Arriba](#orgdd1afcd)
 
 
-<a id="org0651d90"></a>
+<a id="org5d0c517"></a>
 
 # Excess deaths
 
@@ -169,10 +191,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Datos del *Financial Times*](https://github.com/emagar/coronavirus-excess-mortality-data).
 -   [Animación de Baptiste Coulmont](https://twitter.com/i/status/1360545213144592385)
 
-[Arriba](#orgd5739b5)
+[Arriba](#orgdd1afcd)
 
 
-<a id="org6b2b392"></a>
+<a id="org57b554f"></a>
 
 # Borradores de wikipedia
 
@@ -239,10 +261,10 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
     -   Retroalimentas a
 -   Pamela [Servicio salud penitenciario](https://es.wikipedia.org/wiki/Usuario_discusión:Pamelaquirarte#Servicios_de_Salud_en_Centros_Penitenciarios_Mexicanos) &#x2014; pendiente
 
-[Arriba](#orgd5739b5)
+[Arriba](#orgdd1afcd)
 
 
-<a id="orgfd30780"></a>
+<a id="org303f454"></a>
 
 # Scraping
 
@@ -269,7 +291,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Prueba tus expresiones regulares en línea](https://regex101.com/).
 -   [Discursos en la cámara de diputados](https://github.com/emagar/sip/blob/master/lit/magar-legdeb04.pdf).
 
-[Arriba](#orgd5739b5)
+[Arriba](#orgdd1afcd)
 
 
 ## Sitio del Congreso chileno
@@ -284,7 +306,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   [Absolute minimum about unicode and character sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
 
-<a id="org1e24792"></a>
+<a id="org9c35788"></a>
 
 # Georreferenciación
 
@@ -295,7 +317,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Mapa de AMLO 2018
 
 
-<a id="orgb95e721"></a>
+<a id="org7e609cd"></a>
 
 # Luminosidad satelital
 
@@ -313,7 +335,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
     -   [Armonización de series 1992-2013 y 2012-2018](https://www.nature.com/articles/s41597-020-0510-y)
 
 
-<a id="org7d392e6"></a>
+<a id="org6cf650b"></a>
 
 # El calendario electoral
 
@@ -324,7 +346,7 @@ Lunes y miércoles 16:00&#x2013;17:30, salón B-5
 -   Variable explicativa ([ejemplo](https://github.com/emagar/cv/blob/master/papers/magarGuberCoattails2012jop.pdf)) o variable dependiente ([ejemplo](https://doi.org/10.1111/j.1540-5907.2011.00556.x))
 
 
-<a id="org68e7ca3"></a>
+<a id="org8bddb42"></a>
 
 # Temas próximos
 
