@@ -1,6 +1,6 @@
-- [Ej. 1 (16 de enero): la redistritación federal de 2022](#org86ecd3b)
+- [Ej. 1 (16 de enero): la redistritación federal de 2022](#org9c4e734)
 
-<a id="org53c8410"></a>
+<a id="org8cf9f74"></a>
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -35,10 +35,10 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ---
 
 
-<a id="org86ecd3b"></a>
+<a id="org9c4e734"></a>
 
 # Ej. 1 (16 de enero): la redistritación federal de 2022
 
 -   Intente instalar `QGis` en su computadora, permite manipular mapas digitales.
--   Los mapas del INE pueden obtenerse [aquí](https://cartografia.ife.org.mx/sige7/?distritacion2021=eceg), estado por estado. Obtenga el mapa digital (shapefile) del estado que le corresponde.
--   `QGis` permite exportar un archivo en formato csv para manipularlo con `excel` (instrucciones [aquí](https://mapscaping.com/attribute-table-to-excel-in-qgis/)).
+-   Los mapas del INE pueden obtenerse [aquí](https://cartografia.ife.org.mx/sige7/?mapoteca=catalogo&CMDEF) estado por estado. Obtenga el mapa del estado que le corresponde.
+-   **OJO**: el [enlace](https://cartografia.ife.org.mx/sige7/?distritacion2021=eceg) que circulé originalmente no es correcto. Sólo un puñado de los estados reportan distrito y es el del mapa 2018. De cualquier modo, obtenga el mapa digital (shapefile) del estado que le corresponde para ejercitarse en `QGis`. Intente exportar un archivo en formato csv con la relación seccion&#x2013;municipio (instrucciones [aquí](https://mapscaping.com/attribute-table-to-excel-in-qgis/)).
