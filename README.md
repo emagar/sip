@@ -1,6 +1,7 @@
-- [Ej. 1 (16 de enero): la redistritación federal de 2022](#org9c4e734)
+- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org8c6ae58)
+- [Ej. 1 (22 de enero): *version control systems*](#orgcf17c1a)
 
-<a id="org8cf9f74"></a>
+<a id="org672c8aa"></a>
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -35,10 +36,20 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ---
 
 
-<a id="org9c4e734"></a>
+<a id="org8c6ae58"></a>
 
-# Ej. 1 (16 de enero): la redistritación federal de 2022
+# Ej. 1 (17 de enero): la redistritación federal de 2022
 
 -   Intente instalar `QGis` en su computadora, permite manipular mapas digitales.
 -   Los mapas del INE pueden obtenerse [aquí](https://cartografia.ife.org.mx/sige7/?mapoteca=catalogo&CMDEF) estado por estado. Obtenga el mapa del estado que le corresponde.
 -   **OJO**: el [enlace](https://cartografia.ife.org.mx/sige7/?distritacion2021=eceg) que circulé originalmente no es correcto. Sólo un puñado de los estados reportan distrito y es el del mapa 2018. De cualquier modo, obtenga el mapa digital (shapefile) del estado que le corresponde para ejercitarse en `QGis`. Intente exportar un archivo en formato csv con la relación seccion&#x2013;municipio (instrucciones [aquí](https://mapscaping.com/attribute-table-to-excel-in-qgis/)).
+
+
+<a id="orgcf17c1a"></a>
+
+# Ej. 1 (22 de enero): *version control systems*
+
+-   Si aún no la tiene, obtenga la relación sección&#x2013;distrito del estado que le corresponde.
+-   Coordínese con el resto del grupo para consolidar los datos de todes.
+-   Lean [este artículo](./lit/economist-UK-census-13jan2024.pdf) sobre el futuro del censo en el Reino Unido.
+-   Investigue qué son `Git` y `GitHub`, p.ej. [esto](https://happygitwithr.com/).
