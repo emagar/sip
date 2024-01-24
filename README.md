@@ -1,7 +1,8 @@
-- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org8c6ae58)
-- [Ej. 1 (22 de enero): *version control systems*](#orgcf17c1a)
+- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org1a56742)
+- [Elementos de un diseño de investigación (22 de enero)](#org57998da)
+- [Ej. 2 (24 de enero): *version control systems*](#org0d1679a)
 
-<a id="org672c8aa"></a>
+<a id="org45b1c17"></a>
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -36,7 +37,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ---
 
 
-<a id="org8c6ae58"></a>
+<a id="org1a56742"></a>
 
 # Ej. 1 (17 de enero): la redistritación federal de 2022
 
@@ -45,9 +46,31 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   **OJO**: el [enlace](https://cartografia.ife.org.mx/sige7/?distritacion2021=eceg) que circulé originalmente no es correcto. Sólo un puñado de los estados reportan distrito y es el del mapa 2018. De cualquier modo, obtenga el mapa digital (shapefile) del estado que le corresponde para ejercitarse en `QGis`. Intente exportar un archivo en formato csv con la relación seccion&#x2013;municipio (instrucciones [aquí](https://mapscaping.com/attribute-table-to-excel-in-qgis/)).
 
 
-<a id="orgcf17c1a"></a>
+<a id="org57998da"></a>
 
-# Ej. 1 (22 de enero): *version control systems*
+# Elementos de un diseño de investigación (22 de enero)
+
+1.  Un tema
+2.  Una pregunta de investigación, objetivos
+    -   Específica, mesurable, factible
+    -   Qué, cómo, por qué, cuándo&#x2026;
+3.  Por qué importa
+    -   Para ti
+    -   Para el mundo
+4.  Una respuesta
+    -   En la literatura
+    -   La propia
+    -   Hipótesis que relacionan variables, falsificables
+5.  Datos y evidencia
+6.  Una metodología
+7.  Validez y confiabilidad
+8.  Extensiones
+9.  Consideraciones éticas
+
+
+<a id="org0d1679a"></a>
+
+# Ej. 2 (24 de enero): *version control systems*
 
 -   Si aún no la tiene, obtenga la relación sección&#x2013;distrito del estado que le corresponde.
 -   Coordínese con el resto del grupo para consolidar los datos de todes.
