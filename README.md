@@ -1,8 +1,9 @@
-- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org1a56742)
-- [Elementos de un diseño de investigación (22 de enero)](#org57998da)
-- [Ej. 2 (24 de enero): *version control systems*](#org0d1679a)
+- [Ej. 1 (17 de enero): la redistritación federal de 2022](#orgc5fbcfd)
+- [Elementos de un diseño de investigación (22 de enero)](#orgeaa97ab)
+- [Ej. 2 (24 de enero): *version control systems*](#orga7e96fe)
+- [Ej. 3 (29 de enero)](#org560d7a2)
 
-<a id="org45b1c17"></a>
+<a id="orga958c52"></a>
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -37,7 +38,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ---
 
 
-<a id="org1a56742"></a>
+<a id="orgc5fbcfd"></a>
 
 # Ej. 1 (17 de enero): la redistritación federal de 2022
 
@@ -46,7 +47,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   **OJO**: el [enlace](https://cartografia.ife.org.mx/sige7/?distritacion2021=eceg) que circulé originalmente no es correcto. Sólo un puñado de los estados reportan distrito y es el del mapa 2018. De cualquier modo, obtenga el mapa digital (shapefile) del estado que le corresponde para ejercitarse en `QGis`. Intente exportar un archivo en formato csv con la relación seccion&#x2013;municipio (instrucciones [aquí](https://mapscaping.com/attribute-table-to-excel-in-qgis/)).
 
 
-<a id="org57998da"></a>
+<a id="orgeaa97ab"></a>
 
 # Elementos de un diseño de investigación (22 de enero)
 
@@ -68,7 +69,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 9.  Consideraciones éticas
 
 
-<a id="org0d1679a"></a>
+<a id="orga7e96fe"></a>
 
 # Ej. 2 (24 de enero): *version control systems*
 
@@ -76,3 +77,18 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   Coordínese con el resto del grupo para consolidar los datos de todes.
 -   Lean [este artículo](./lit/economist-UK-census-13jan2024.pdf) sobre el futuro del censo en el Reino Unido.
 -   Investigue qué son `Git` y `GitHub`, p.ej. [esto](https://happygitwithr.com/).
+-   Pasos básicos en `git` y `gitHub`:
+    1.  Abra una cuenta en <https://github.com>.
+    2.  Desde `gitHub`, haga un fork del repositorio <https://github.com/emagar/dipMex> (instrucciones [aquí](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo)).
+    3.  Desde la consola de su PC, clone el repositorio a su disco duro (instrucciones [aquí](https://github.com/git-guides/git-clone)).
+    4.  Explore el archivo `data/diputados/dip65.csv`, en particular la variable `dcarta` que indica diputad@s que han comunicado su deseo de volver a contender por su escaño en 2024.
+    5.  Haga alguna modificación al archivo, p.ej. en la columna `nota` indique quién es su diputad@. Guarde el cambio.
+    6.  Desde la consola, use los comandos `git status` (resume archivos alterados), `git add <archivo>` (sube el archivo al "estrado", para ser "fotografiado") y `git commit -m '<mensaje>'` ("fotografía" el nuevo estado del repositorio en el disco).
+
+
+<a id="org560d7a2"></a>
+
+# Ej. 3 (29 de enero)
+
+-   Para el tema de investigación de su interés, prepare respuesta detallada y clara a los elementos 1&#x2013;5 de un diseño de investigación.
+-   Presentaré el tema de la reelección consecutiva y su intersección, entre otros fenómenos, con la redistritación.
