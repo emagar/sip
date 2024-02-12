@@ -1,11 +1,11 @@
-- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org64e4202)
-- [Elementos de un diseño de investigación (22 de enero)](#orgcd51d60)
-- [Ej. 2 (24 de enero): *version control systems*](#orgd73703d)
-- [Ej. 3 (29 de enero)](#orgf92fc93)
-- [Falté a clase (7 de febrero)](#org9167c7e)
-- [Revisión grupal de proyectos](#orgffa64dc)
+- [Ej. 1 (17 de enero): la redistritación federal de 2022](#orga555814)
+- [Elementos de un diseño de investigación (22 de enero)](#org9e8279e)
+- [Ej. 2 (24 de enero): *version control systems*](#org001e3ed)
+- [Ej. 3 (29 de enero)](#orgeb0155b)
+- [Falté a clase (7 de febrero)](#orgff7ae58)
+- [Revisión grupal de proyectos (12 de febrero)](#org390a4f2)
 
-<a id="orgecaf236"></a>
+<a id="orgb068e31"></a>
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -40,7 +40,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ---
 
 
-<a id="org64e4202"></a>
+<a id="orga555814"></a>
 
 # Ej. 1 (17 de enero): la redistritación federal de 2022
 
@@ -49,7 +49,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   **OJO**: el [enlace](https://cartografia.ife.org.mx/sige7/?distritacion2021=eceg) que circulé originalmente no es correcto. Sólo un puñado de los estados reportan distrito y es el del mapa 2018. De cualquier modo, obtenga el mapa digital (shapefile) del estado que le corresponde para ejercitarse en `QGis`. Intente exportar un archivo en formato csv con la relación seccion&#x2013;municipio (instrucciones [aquí](https://mapscaping.com/attribute-table-to-excel-in-qgis/)).
 
 
-<a id="orgcd51d60"></a>
+<a id="org9e8279e"></a>
 
 # Elementos de un diseño de investigación (22 de enero)
 
@@ -71,7 +71,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 9.  Consideraciones éticas
 
 
-<a id="orgd73703d"></a>
+<a id="org001e3ed"></a>
 
 # Ej. 2 (24 de enero): *version control systems*
 
@@ -88,7 +88,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
     6.  Desde la consola, use los comandos `git status` (resume archivos alterados), `git add <archivo>` (sube el archivo al "estrado", para ser "fotografiado") y `git commit -m '<mensaje>'` ("fotografía" el nuevo estado del repositorio en el disco).
 
 
-<a id="orgf92fc93"></a>
+<a id="orgeb0155b"></a>
 
 # Ej. 3 (29 de enero)
 
@@ -96,14 +96,14 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   Presentaré el tema de la reelección consecutiva y su intersección, entre otros fenómenos, con la redistritación.
 
 
-<a id="org9167c7e"></a>
+<a id="orgff7ae58"></a>
 
 # Falté a clase (7 de febrero)
 
 
-<a id="orgffa64dc"></a>
+<a id="org390a4f2"></a>
 
-# Revisión grupal de proyectos
+# Revisión grupal de proyectos (12 de febrero)
 
 
 ## Mauricio
