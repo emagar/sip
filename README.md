@@ -1,11 +1,11 @@
-- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org9113098)
-- [Elementos de un diseño de investigación (22 de enero)](#orgbedb9c9)
-- [Ej. 2 (24 de enero): *version control systems*](#org97544d9)
-- [Ej. 3 (29 de enero)](#org0e1282a)
-- [Falté a clase (7 de febrero)](#orge0317d6)
-- [Revisión grupal de proyectos](#org9365b9b)
+- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org64e4202)
+- [Elementos de un diseño de investigación (22 de enero)](#orgcd51d60)
+- [Ej. 2 (24 de enero): *version control systems*](#orgd73703d)
+- [Ej. 3 (29 de enero)](#orgf92fc93)
+- [Falté a clase (7 de febrero)](#org9167c7e)
+- [Revisión grupal de proyectos](#orgffa64dc)
 
-<a id="orgcd84383"></a>
+<a id="orgecaf236"></a>
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -40,7 +40,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ---
 
 
-<a id="org9113098"></a>
+<a id="org64e4202"></a>
 
 # Ej. 1 (17 de enero): la redistritación federal de 2022
 
@@ -49,7 +49,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   **OJO**: el [enlace](https://cartografia.ife.org.mx/sige7/?distritacion2021=eceg) que circulé originalmente no es correcto. Sólo un puñado de los estados reportan distrito y es el del mapa 2018. De cualquier modo, obtenga el mapa digital (shapefile) del estado que le corresponde para ejercitarse en `QGis`. Intente exportar un archivo en formato csv con la relación seccion&#x2013;municipio (instrucciones [aquí](https://mapscaping.com/attribute-table-to-excel-in-qgis/)).
 
 
-<a id="orgbedb9c9"></a>
+<a id="orgcd51d60"></a>
 
 # Elementos de un diseño de investigación (22 de enero)
 
@@ -71,7 +71,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 9.  Consideraciones éticas
 
 
-<a id="org97544d9"></a>
+<a id="orgd73703d"></a>
 
 # Ej. 2 (24 de enero): *version control systems*
 
@@ -88,7 +88,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
     6.  Desde la consola, use los comandos `git status` (resume archivos alterados), `git add <archivo>` (sube el archivo al "estrado", para ser "fotografiado") y `git commit -m '<mensaje>'` ("fotografía" el nuevo estado del repositorio en el disco).
 
 
-<a id="org0e1282a"></a>
+<a id="orgf92fc93"></a>
 
 # Ej. 3 (29 de enero)
 
@@ -96,12 +96,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   Presentaré el tema de la reelección consecutiva y su intersección, entre otros fenómenos, con la redistritación.
 
 
-<a id="orge0317d6"></a>
+<a id="org9167c7e"></a>
 
 # Falté a clase (7 de febrero)
 
 
-<a id="org9365b9b"></a>
+<a id="orgffa64dc"></a>
 
 # Revisión grupal de proyectos
 
@@ -109,23 +109,32 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ## Mauricio
 
 
-## Otro proyecto
+## Valeria
 
 
-## Un proyecto asignable: contestar preg supermaj 2024
+## Un proyecto asignable: porcentaje de voto Morena 2024 para que ganen supermayorías en en Congreso
 
 
-## tip: usar lista ine para codificar dis2024
+## Tip: usar lista ine para codificar dis2024
 
 -   lectura pdf a ojo
 -   copy/paste/manip para lista legible
--   más sofis: prepara código
+-   más sofis: preparas código
 
 
-## asignar bloques de media hora
+## Asignación bloques de media hora
 
--   ya vistos, con pendientes: JP, Valentina, Mauricio
--   mi 14:
--   lu 19:
--   mi 21:
--   2 ó 3 en una tarde:
+-   ya vistos, con pendientes: JP, Valentina, Mauricio, Valeria
+-   miérc. 14:
+    -   11:30&#x2013;12 Guillermo
+    -   12&#x2013;12:30 Frida
+    -   12:30&#x2013;13 Alvaro
+-   lunes 19:
+    -   11:30&#x2013;12 Lalo
+    -   12&#x2013;12:30 José Miguel
+    -   12:30&#x2013;13 Oscar
+-   miérc. 21:
+    -   11:30&#x2013;12 Paula
+    -   12&#x2013;12:30 Camila
+    -   12:30&#x2013;13 Grace
+-   Pendientes: Daniela, José
