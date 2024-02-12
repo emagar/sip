@@ -1,9 +1,11 @@
-- [Ej. 1 (17 de enero): la redistritación federal de 2022](#orgc5fbcfd)
-- [Elementos de un diseño de investigación (22 de enero)](#orgeaa97ab)
-- [Ej. 2 (24 de enero): *version control systems*](#orga7e96fe)
-- [Ej. 3 (29 de enero)](#org560d7a2)
+- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org9113098)
+- [Elementos de un diseño de investigación (22 de enero)](#orgbedb9c9)
+- [Ej. 2 (24 de enero): *version control systems*](#org97544d9)
+- [Ej. 3 (29 de enero)](#org0e1282a)
+- [Falté a clase (7 de febrero)](#orge0317d6)
+- [Revisión grupal de proyectos](#org9365b9b)
 
-<a id="orga958c52"></a>
+<a id="orgcd84383"></a>
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -38,7 +40,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ---
 
 
-<a id="orgc5fbcfd"></a>
+<a id="org9113098"></a>
 
 # Ej. 1 (17 de enero): la redistritación federal de 2022
 
@@ -47,7 +49,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   **OJO**: el [enlace](https://cartografia.ife.org.mx/sige7/?distritacion2021=eceg) que circulé originalmente no es correcto. Sólo un puñado de los estados reportan distrito y es el del mapa 2018. De cualquier modo, obtenga el mapa digital (shapefile) del estado que le corresponde para ejercitarse en `QGis`. Intente exportar un archivo en formato csv con la relación seccion&#x2013;municipio (instrucciones [aquí](https://mapscaping.com/attribute-table-to-excel-in-qgis/)).
 
 
-<a id="orgeaa97ab"></a>
+<a id="orgbedb9c9"></a>
 
 # Elementos de un diseño de investigación (22 de enero)
 
@@ -69,7 +71,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 9.  Consideraciones éticas
 
 
-<a id="orga7e96fe"></a>
+<a id="org97544d9"></a>
 
 # Ej. 2 (24 de enero): *version control systems*
 
@@ -86,9 +88,44 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
     6.  Desde la consola, use los comandos `git status` (resume archivos alterados), `git add <archivo>` (sube el archivo al "estrado", para ser "fotografiado") y `git commit -m '<mensaje>'` ("fotografía" el nuevo estado del repositorio en el disco).
 
 
-<a id="org560d7a2"></a>
+<a id="org0e1282a"></a>
 
 # Ej. 3 (29 de enero)
 
 -   Para el tema de investigación de su interés, prepare respuesta detallada y clara a los elementos 1&#x2013;5 de un diseño de investigación.
 -   Presentaré el tema de la reelección consecutiva y su intersección, entre otros fenómenos, con la redistritación.
+
+
+<a id="orge0317d6"></a>
+
+# Falté a clase (7 de febrero)
+
+
+<a id="org9365b9b"></a>
+
+# Revisión grupal de proyectos
+
+
+## Mauricio
+
+
+## Otro proyecto
+
+
+## Un proyecto asignable: contestar preg supermaj 2024
+
+
+## tip: usar lista ine para codificar dis2024
+
+-   lectura pdf a ojo
+-   copy/paste/manip para lista legible
+-   más sofis: prepara código
+
+
+## asignar bloques de media hora
+
+-   ya vistos, con pendientes: JP, Valentina, Mauricio
+-   mi 14:
+-   lu 19:
+-   mi 21:
+-   2 ó 3 en una tarde:
