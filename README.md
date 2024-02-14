@@ -1,12 +1,12 @@
-- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org3d35e74)
-- [Elementos de un diseño de investigación (22 de enero)](#orgf94c50e)
-- [Ej. 2 (24 de enero): *version control systems*](#orgc493b98)
-- [Ej. 3 (29 de enero)](#orgf546c59)
-- [Falté a clase (7 de febrero)](#org212ee8c)
-- [Revisión grupal de dos proyectos (12 de febrero)](#orgf3c624b)
-- [Asignación bloques de media hora (14, 19 y 21 de febrero)](#org65ef3d8)
+- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org1fa2114)
+- [Elementos de un diseño de investigación (22 de enero)](#org64e9cc9)
+- [Ej. 2 (24 de enero): *version control systems*](#org8d7ba4d)
+- [Ej. 3 (29 de enero)](#org53514b1)
+- [Falté a clase (7 de febrero)](#orgb39b822)
+- [Revisión grupal de dos proyectos (12 de febrero)](#org9f25869)
+- [Asignación bloques de $1/2$ hora (14&#x2013;21 de febrero)](#org0505e70)
 
-<a id="orgba8f996"></a>
+<a id="orga8e806c"></a>
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -41,7 +41,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ---
 
 
-<a id="org3d35e74"></a>
+<a id="org1fa2114"></a>
 
 # Ej. 1 (17 de enero): la redistritación federal de 2022
 
@@ -50,7 +50,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   **OJO**: el [enlace](https://cartografia.ife.org.mx/sige7/?distritacion2021=eceg) que circulé originalmente no es correcto. Sólo un puñado de los estados reportan distrito y es el del mapa 2018. De cualquier modo, obtenga el mapa digital (shapefile) del estado que le corresponde para ejercitarse en `QGis`. Intente exportar un archivo en formato csv con la relación seccion&#x2013;municipio (instrucciones [aquí](https://mapscaping.com/attribute-table-to-excel-in-qgis/)).
 
 
-<a id="orgf94c50e"></a>
+<a id="org64e9cc9"></a>
 
 # Elementos de un diseño de investigación (22 de enero)
 
@@ -72,7 +72,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 9.  Consideraciones éticas
 
 
-<a id="orgc493b98"></a>
+<a id="org8d7ba4d"></a>
 
 # Ej. 2 (24 de enero): *version control systems*
 
@@ -89,7 +89,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
     6.  Desde la consola, use los comandos `git status` (resume archivos alterados), `git add <archivo>` (sube el archivo al "estrado", para ser "fotografiado") y `git commit -m '<mensaje>'` ("fotografía" el nuevo estado del repositorio en el disco).
 
 
-<a id="orgf546c59"></a>
+<a id="org53514b1"></a>
 
 # Ej. 3 (29 de enero)
 
@@ -97,12 +97,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   Presentaré el tema de la reelección consecutiva y su intersección, entre otros fenómenos, con la redistritación.
 
 
-<a id="org212ee8c"></a>
+<a id="orgb39b822"></a>
 
 # Falté a clase (7 de febrero)
 
 
-<a id="orgf3c624b"></a>
+<a id="org9f25869"></a>
 
 # Revisión grupal de dos proyectos (12 de febrero)
 
@@ -123,24 +123,36 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   más sofis: preparas código
 
 
-<a id="org65ef3d8"></a>
+<a id="org0505e70"></a>
 
-# Asignación bloques de media hora (14, 19 y 21 de febrero)
+# Asignación bloques de $1/2$ hora (14&#x2013;21 de febrero)
 
 Envíen un resumen de su proyecto antes de reunirnos, contestando las 5 preguntas básicas. Si no consiguen articular un proyecto factible les asignaré otro para que lo trabajen.
 
--   Ya vistos, con pendientes: JP, Valentina, Mauricio, Valeria
--   Miérc. 14:
-    -   11:30&#x2013;12 Guillermo
-    -   12&#x2013;12:30 Frida
-    -   12:30&#x2013;13 Alvaro
--   Lunes 19:
-    -   11:30&#x2013;12 Lalo
-    -   12&#x2013;12:30 José Miguel
-    -   12:30&#x2013;13 Oscar
-    -   13&#x2013;13:30 José (confirmar)
--   Miérc. 21:
-    -   11:30&#x2013;12 Paula
-    -   12&#x2013;12:30 Camila
-    -   12:30&#x2013;13 Grace
--   Pendientes: Daniela, José
+
+## Ya vistos, con pendientes: JP, Valentina, Mauricio, Valeria
+
+
+## Miérc. 14:
+
+-   11:30&#x2013;12 Guillermo
+-   12&#x2013;12:30 Frida
+-   12:30&#x2013;13 Alvaro
+
+
+## Lunes 19:
+
+-   11:30&#x2013;12 Lalo
+-   12&#x2013;12:30 José Miguel
+-   12:30&#x2013;13 Oscar
+-   13&#x2013;13:30 José (confirmar)
+
+
+## Miérc. 21:
+
+-   11:30&#x2013;12 Paula
+-   12&#x2013;12:30 Camila
+-   12:30&#x2013;13 Grace
+
+
+## Pendiente: Daniela
