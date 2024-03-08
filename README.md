@@ -1,12 +1,14 @@
-- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org1fa2114)
-- [Elementos de un diseño de investigación (22 de enero)](#org64e9cc9)
-- [Ej. 2 (24 de enero): *version control systems*](#org8d7ba4d)
-- [Ej. 3 (29 de enero)](#org53514b1)
-- [Falté a clase (7 de febrero)](#orgb39b822)
-- [Revisión grupal de dos proyectos (12 de febrero)](#org9f25869)
-- [Asignación bloques de $1/2$ hora (14&#x2013;21 de febrero)](#org0505e70)
+- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org957ab01)
+- [Elementos de un diseño de investigación (22 de enero)](#org35d292a)
+- [Ej. 2 (24 de enero): *version control systems*](#orgaee1181)
+- [Ej. 3 (29 de enero)](#orgf6e8788)
+- [Falté a clase (7 de febrero)](#org550877f)
+- [Revisión grupal de dos proyectos (12 de febrero)](#org3204887)
+- [Asignación bloques de $1/2$ hora (14&#x2013;21 de febrero)](#orge5adc3e)
+- [El voto personal y las dinastías electorales (4, 6 y 11 de marzo)](#org902127e)
+- [Reuniones 1-a-1 (11 y 13 de marzo)](#orgfa73f37)
 
-<a id="orga8e806c"></a>
+<a id="org0710eea"></a>
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -41,7 +43,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ---
 
 
-<a id="org1fa2114"></a>
+<a id="org957ab01"></a>
 
 # Ej. 1 (17 de enero): la redistritación federal de 2022
 
@@ -50,7 +52,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   **OJO**: el [enlace](https://cartografia.ife.org.mx/sige7/?distritacion2021=eceg) que circulé originalmente no es correcto. Sólo un puñado de los estados reportan distrito y es el del mapa 2018. De cualquier modo, obtenga el mapa digital (shapefile) del estado que le corresponde para ejercitarse en `QGis`. Intente exportar un archivo en formato csv con la relación seccion&#x2013;municipio (instrucciones [aquí](https://mapscaping.com/attribute-table-to-excel-in-qgis/)).
 
 
-<a id="org64e9cc9"></a>
+<a id="org35d292a"></a>
 
 # Elementos de un diseño de investigación (22 de enero)
 
@@ -72,7 +74,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 9.  Consideraciones éticas
 
 
-<a id="org8d7ba4d"></a>
+<a id="orgaee1181"></a>
 
 # Ej. 2 (24 de enero): *version control systems*
 
@@ -89,7 +91,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
     6.  Desde la consola, use los comandos `git status` (resume archivos alterados), `git add <archivo>` (sube el archivo al "estrado", para ser "fotografiado") y `git commit -m '<mensaje>'` ("fotografía" el nuevo estado del repositorio en el disco).
 
 
-<a id="org53514b1"></a>
+<a id="orgf6e8788"></a>
 
 # Ej. 3 (29 de enero)
 
@@ -97,12 +99,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   Presentaré el tema de la reelección consecutiva y su intersección, entre otros fenómenos, con la redistritación.
 
 
-<a id="orgb39b822"></a>
+<a id="org550877f"></a>
 
 # Falté a clase (7 de febrero)
 
 
-<a id="org9f25869"></a>
+<a id="org3204887"></a>
 
 # Revisión grupal de dos proyectos (12 de febrero)
 
@@ -123,7 +125,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   más sofis: preparas código
 
 
-<a id="org0505e70"></a>
+<a id="orge5adc3e"></a>
 
 # Asignación bloques de $1/2$ hora (14&#x2013;21 de febrero)
 
@@ -151,8 +153,53 @@ Envíen un resumen de su proyecto antes de reunirnos, contestando las 5 pregunta
 ## Miérc. 21:
 
 -   11:30&#x2013;12 Paula
+
 -   12&#x2013;12:30 Camila
 -   12:30&#x2013;13 Grace
 
+-   Por zoom: Daniela
 
-## Pendiente: Daniela
+
+<a id="org902127e"></a>
+
+# El voto personal y las dinastías electorales (4, 6 y 11 de marzo)
+
+Ojo: el lunes 11 de marzo tomaré 30 minutos para terminar este tema, luego habrá reuniones 1-a-1 con tres de ustedes. Lectura: Libro de [Dan Smith](https://github.com/emagar/sip/blob/master/lit/smithDanDynasticBookManuscript-1-24-2017.pdf), cap. 1.
+
+
+<a id="orgfa73f37"></a>
+
+# Reuniones 1-a-1 (11 y 13 de marzo)
+
+Ojo: asigné algunas reuniones pasado el final de nuestra clase, avise si no pudiera reunirse a esa hora. Se vale intercambiar *slots* con otra persona, sólo que ambas deben decirme que están de acuerdo.
+
+
+## Lunes 11
+
+-   12&#x2013;12:30 Valentina
+-   12:30&#x2013;13 José
+-   13&#x2013;13:30 Mauricio
+-   13:30&#x2013;14 Frida
+
+
+## Miércoles 13
+
+-   11:30&#x2013;12 Daniela
+-   12&#x2013;12:30 Juan Pablo
+-   12:30&#x2013;13 Lalo
+-   13&#x2013;13:30 Alvaro
+-   13:30&#x2013;14 Camila
+
+
+## Miércoles 20
+
+-   11:30&#x2013;12 Guillermo
+-   12&#x2013;12:30 Paula
+-   12:30&#x2013;13 Oscar
+-   13&#x2013;13:30 José Miguel
+-   13:30&#x2013;14 Valeria
+
+
+## Pendiente
+
+-   Grace
