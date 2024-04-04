@@ -1,14 +1,17 @@
-- [Ej. 1 (17 de enero): la redistritación federal de 2022](#org957ab01)
-- [Elementos de un diseño de investigación (22 de enero)](#org35d292a)
-- [Ej. 2 (24 de enero): *version control systems*](#orgaee1181)
-- [Ej. 3 (29 de enero)](#orgf6e8788)
-- [Falté a clase (7 de febrero)](#org550877f)
-- [Revisión grupal de dos proyectos (12 de febrero)](#org3204887)
-- [Asignación bloques de $1/2$ hora (14&#x2013;21 de febrero)](#orge5adc3e)
-- [El voto personal y las dinastías electorales (4, 6 y 11 de marzo)](#org902127e)
-- [Reuniones 1-a-1 (11 y 13 de marzo)](#orgfa73f37)
+- [Ej. 1 (17 de enero): la redistritación federal de 2022](#orgd89b334)
+- [Elementos de un diseño de investigación (22 de enero)](#orgf3d0bf9)
+- [Ej. 2 (24 de enero): *version control systems*](#orgbbf41b8)
+- [Ej. 3 (29 de enero)](#orgc35534a)
+- [Falté a clase (7 de febrero)](#orga36079a)
+- [Revisión grupal de dos proyectos (12 de febrero)](#org2deb8c1)
+- [Asignación bloques de $1/2$ hora (14&#x2013;21 de febrero)](#org1524917)
+- [El voto personal y las dinastías electorales (4, 6 y 11 de marzo)](#org8ced9fc)
+- [Reuniones 1-a-1 (11 y 13 de marzo)](#org92ec51c)
+- [Votaciones nominales e ideología (lunes 1 de abril)](#orgef7e6c5)
+- [Scraping (miércoles 3)](#orged395b9)
+- [Tercera serie de reuniones 1-a-1](#org4b66aa1)
 
-<a id="org0710eea"></a>
+<a id="org30db253"></a>
 
 ITAM Depto. de ciencia política, primavera 2024
 
@@ -43,7 +46,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 ---
 
 
-<a id="org957ab01"></a>
+<a id="orgd89b334"></a>
 
 # Ej. 1 (17 de enero): la redistritación federal de 2022
 
@@ -52,7 +55,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   **OJO**: el [enlace](https://cartografia.ife.org.mx/sige7/?distritacion2021=eceg) que circulé originalmente no es correcto. Sólo un puñado de los estados reportan distrito y es el del mapa 2018. De cualquier modo, obtenga el mapa digital (shapefile) del estado que le corresponde para ejercitarse en `QGis`. Intente exportar un archivo en formato csv con la relación seccion&#x2013;municipio (instrucciones [aquí](https://mapscaping.com/attribute-table-to-excel-in-qgis/)).
 
 
-<a id="org35d292a"></a>
+<a id="orgf3d0bf9"></a>
 
 # Elementos de un diseño de investigación (22 de enero)
 
@@ -74,7 +77,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 9.  Consideraciones éticas
 
 
-<a id="orgaee1181"></a>
+<a id="orgbbf41b8"></a>
 
 # Ej. 2 (24 de enero): *version control systems*
 
@@ -91,7 +94,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
     6.  Desde la consola, use los comandos `git status` (resume archivos alterados), `git add <archivo>` (sube el archivo al "estrado", para ser "fotografiado") y `git commit -m '<mensaje>'` ("fotografía" el nuevo estado del repositorio en el disco).
 
 
-<a id="orgf6e8788"></a>
+<a id="orgc35534a"></a>
 
 # Ej. 3 (29 de enero)
 
@@ -99,12 +102,12 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   Presentaré el tema de la reelección consecutiva y su intersección, entre otros fenómenos, con la redistritación.
 
 
-<a id="org550877f"></a>
+<a id="orga36079a"></a>
 
 # Falté a clase (7 de febrero)
 
 
-<a id="org3204887"></a>
+<a id="org2deb8c1"></a>
 
 # Revisión grupal de dos proyectos (12 de febrero)
 
@@ -125,7 +128,7 @@ Lunes y miércoles 11:30&#x2013;13:00, salón 110
 -   más sofis: preparas código
 
 
-<a id="orge5adc3e"></a>
+<a id="org1524917"></a>
 
 # Asignación bloques de $1/2$ hora (14&#x2013;21 de febrero)
 
@@ -160,14 +163,14 @@ Envíen un resumen de su proyecto antes de reunirnos, contestando las 5 pregunta
 -   Por zoom: Daniela
 
 
-<a id="org902127e"></a>
+<a id="org8ced9fc"></a>
 
 # El voto personal y las dinastías electorales (4, 6 y 11 de marzo)
 
 Ojo: el lunes 11 de marzo tomaré 30 minutos para terminar este tema, luego habrá reuniones 1-a-1 con tres de ustedes. Lectura: Libro de [Dan Smith](https://github.com/emagar/sip/blob/master/lit/smithDanDynasticBookManuscript-1-24-2017.pdf), cap. 1.
 
 
-<a id="orgfa73f37"></a>
+<a id="org92ec51c"></a>
 
 # Reuniones 1-a-1 (11 y 13 de marzo)
 
@@ -198,8 +201,61 @@ Ojo: asigné algunas reuniones pasado el final de nuestra clase, avise si no pud
 -   12:30&#x2013;13 Oscar
 -   13&#x2013;13:30 José Miguel
 -   13:30&#x2013;14 Valeria
+-   por zoom Grace
 
 
-## Pendiente
+<a id="orgef7e6c5"></a>
 
--   Grace
+# Votaciones nominales e ideología (lunes 1 de abril)
+
+-   [Intro a las votaciones nominales](./clases/roll-call/roll-call-aldf.pdf)
+-   [Caso ALDF](./clases/roll-call/mpsa2011.pdf)
+
+
+<a id="orged395b9"></a>
+
+# Scraping (miércoles 3)
+
+-   Proposiciones con punto de acuerdo en la Cámara
+-   La función `wget` en la consola
+
+
+<a id="org4b66aa1"></a>
+
+# Tercera serie de reuniones 1-a-1
+
+
+## Lunes 8 de abril
+
+-   11:30 Frida
+-   12:00 Daniela
+-   12:30 Valentina
+-   13:00 Cam
+
+
+## Miércoles 10 de abril
+
+-   11:30 Guillermo
+-   12:00 Lalo
+-   12:30 José Lara
+
+
+## Lunes 15 de abril
+
+-   11:30 Juan Pablo
+-   12:00 Alvaro
+-   12:30 Oscar
+
+
+## Miércoles 17 de abril
+
+-   11:30 José Miguel
+-   12:00 Valeria
+-   12:30
+
+
+## Lunes 22 de abril
+
+-   11:30 Paula
+-   12:00 Mau
+-   12:30
